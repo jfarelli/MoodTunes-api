@@ -7,12 +7,36 @@ app.use(cors());
 app.locals.songs = [
   {
     id: 1,
-    title: 'Haaaay!',
-    artist: 'Weird Al Yankovick',
-    urlKey: 'someUrlKey',
-    genres: ['rock', 'jazz', 'parody'],
-    searchTerms: ['studious', 'happy'],
-  }
+    title: "Haaaay!",
+    artist: "Weird Al Yankovick",
+    urlKey: "someUrlKey",
+    genres: ["rock", "jazz", "parody"],
+    searchTerms: ["studious", "happy"],
+  },
+  {
+    id: 2,
+    title: "Jerry Was A Race Car Driver",
+    artist: "Primus",
+    urlKey: "LBQ2305fLeA",
+    genres: ['alternative rock', 'funk metal',`children's music`],
+    searchTerms: ["quirky", "fear",'weird'],
+  },
+    {
+    id: 3,
+    title: "Kyle (I Found You)",
+    artist: "Fred Again..",
+    urlKey: "mmlQ2HPfXE",
+    genres: ['Dance','Electronic', 'Hip-Hop','Rap', 'Amapiano'],
+    searchTerms: ["floating",'Sentimental', "Peaceful"],
+  },
+      {
+    id: 4,
+    title: "I'll Be Missing You",
+    artist: "Faith Evans and Sean Combs",
+    urlKey: "mmlQ2HPfXE",
+    genres: ['R&B','Soul', 'Pop', 'Hip-Hop','Rap'],
+    searchTerms: ["Peaceful","Sad","Dreamy"],
+  },
 ];
 
 app.get("/:id", (request, response) => {
