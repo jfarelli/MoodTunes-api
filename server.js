@@ -1,12 +1,16 @@
 const express = require("express");
 const cors = require("cors");
 const app = express();
+import Happy from './assets/happy.png'
 app.use(express.static("public"));
 app.use(cors());
 
+
+
+
 app.locals.data = {
   songs: [
-        {
+    {
       id: 1,
       title: "Jerry Was A Race Car Driver",
       artist: "Primus",
@@ -36,7 +40,7 @@ app.locals.data = {
       artist: "George Jones",
       urlKey: "up0ql8YXxP0",
       genres: ["country"],
-      searchTerms: ["sad"]
+      searchTerms: ["sad"],
     },
     {
       id: 5,
@@ -44,7 +48,7 @@ app.locals.data = {
       artist: "Father John Misty",
       urlKey: "myGXncjeETw",
       genres: ["alternative"],
-      searchTerms: ["happy", "eccentric", "floating", "hopeful"]
+      searchTerms: ["happy", "eccentric", "floating", "hopeful"],
     },
     {
       id: 6,
@@ -52,7 +56,7 @@ app.locals.data = {
       artist: "Ice Cube",
       urlKey: "h4UqMyldS7Q",
       genres: ["rap", "hip-hop"],
-      searchTerms: ["epic", "floating", "laid-back", "smooth"]
+      searchTerms: ["epic", "floating", "laid-back", "smooth"],
     },
     {
       id: 7,
@@ -60,7 +64,7 @@ app.locals.data = {
       artist: "Rancid",
       urlKey: "gsn0onH-ql8",
       genres: ["punk-rock", "reggae"],
-      searchTerms: ["happy", "floating", "laid-back", "smooth"]
+      searchTerms: ["happy", "floating", "laid-back", "smooth"],
     },
     {
       id: 8,
@@ -68,7 +72,7 @@ app.locals.data = {
       artist: "Michael Kiwanuka",
       urlKey: "nOubjLM9Cbc",
       genres: ["soul"],
-      searchTerms: ["dreamy", "elegant", "laid-back", "smooth", "sexy"]
+      searchTerms: ["dreamy", "elegant", "laid-back", "smooth", "sexy"],
     },
     {
       id: 9,
@@ -76,14 +80,14 @@ app.locals.data = {
       artist: "Talking Heads",
       urlKey: "O52jAYa4Pm8",
       genres: ["rock", "alternative"],
-      searchTerms: ["eccentric", "glamorous", "mysterious", "quirky", "weird"]
-    }
+      searchTerms: ["eccentric", "glamorous", "mysterious", "quirky", "weird"],
+    },
   ],
   moods: [
     {
       id: 1,
       title: "Happy",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      img: Happy,
     },
     {
       id: 2,
@@ -135,7 +139,7 @@ app.locals.data = {
       title: "Eccentric",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
-    { 
+    {
       id: 12,
       title: "Chasing",
       img: "https://www.business2community.com/wp-content/uploads/2018/02/BeingChased-600x400.jpg",
@@ -204,7 +208,7 @@ app.locals.data = {
       id: 25,
       title: "Funny",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
-    }, 
+    },
     {
       id: 26,
       title: "Fear",
@@ -228,7 +232,6 @@ app.locals.data = {
   ],
 };
 
-
 app.get("/:id", (request, response) => {
   const data = app.locals.songs;
   let foundSong = data.find((song) => song.id === parseInt(request.params.id));
@@ -242,7 +245,6 @@ app.get("/:id", (request, response) => {
 
 app.set("port", process.env.PORT || 3001);
 app.locals.title = "MoodTunes-api";
-
 
 app.get("/", (request, response) => {
   const data = app.locals.data;
