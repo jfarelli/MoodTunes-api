@@ -1,7 +1,6 @@
 const express = require("express");
 const cors = require("cors");
 const app = express();
-con
 app.use(express.static("public"));
 app.use(cors());
 
