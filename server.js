@@ -85,7 +85,7 @@ https: app.locals.data = {
     {
       id: 1,
       title: "Happy",
-      img: `https://files.slack.com/files-pri/T029P2S9M-F04237M3TPV/happy.png`,
+      img: `https://www.2ndacthealth.com/wallpaper-beach-happy-people/`,
     },
     {
       id: 2,
