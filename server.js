@@ -1,14 +1,13 @@
 const express = require("express");
 const cors = require("cors");
 const app = express();
-import Happy from './assets/happy.png'
+con
 app.use(express.static("public"));
 app.use(cors());
 
+//github.com/jfarelli/MoodTunes-api/blob/500738ef7ebee30cc797067d0ee0e94d50b3363a/assets/happy.png
 
-
-
-app.locals.data = {
+https: app.locals.data = {
   songs: [
     {
       id: 1,
@@ -87,7 +86,7 @@ app.locals.data = {
     {
       id: 1,
       title: "Happy",
-      img: Happy,
+      img: `https://github.com/jfarelli/MoodTunes-api/blob/500738ef7ebee30cc797067d0ee0e94d50b3363a/assets/happy.png`,
     },
     {
       id: 2,
