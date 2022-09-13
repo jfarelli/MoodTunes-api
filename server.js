@@ -85,7 +85,7 @@ https: app.locals.data = {
     {
       id: 1,
       title: "Happy",
-      img: `https://www.2ndacthealth.com/wallpaper-beach-happy-people/`,
+      img: `https://www.2ndacthealth.com/wp-content/uploads/2015/10/wallpaper-beach-happy-people.jpg`,
     },
     {
       id: 2,
