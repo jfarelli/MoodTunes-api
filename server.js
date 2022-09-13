@@ -90,7 +90,7 @@ https: app.locals.data = {
     {
       id: 2,
       title: "Relaxing",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrCGfXMJiywhO1wChl5TR5MCZJFkVPF--XEQ&usqp=CAU",
     },
     {
       id: 3,
@@ -100,37 +100,37 @@ https: app.locals.data = {
     {
       id: 4,
       title: "Glamorous",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      img: "https://i.pinimg.com/originals/84/41/83/844183a3111f09d04abbdd974a0305c6.jpg",
     },
     {
       id: 5,
       title: "Elegant",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      img: "https://memegenerator.net/img/images/73326557.jpg",
     },
     {
       id: 6,
       title: "Epic",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      img: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/12/15/11/stone-cold-beer.jpg?quality=75&width=982&height=726&auto=webp",
     },
     {
       id: 7,
       title: "Sad",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      img: "https://media.istockphoto.com/photos/depressed-woman-sitting-on-a-chair-in-dark-room-at-home-lonly-sad-picture-id865618914?b=1&k=20&m=865618914&s=170667a&w=0&h=D0AppFdYGgOlQZ4rcs90tWYf0ZDAxfUgZ9oA5fPmxQ8=",
     },
     {
       id: 8,
       title: "Smooth",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      img: "https://i.scdn.co/image/d04ae222146d052fbbe9ed2598c1c3319d4e7ebc",
     },
     {
       id: 9,
       title: "Floating",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      img: "https://w0.peakpx.com/wallpaper/424/116/HD-wallpaper-take-me-away-aesthetic-ballons-clouds-dreamy-floating-mood-soft-takemeaway.jpg",
     },
     {
       id: 10,
       title: "Sexy",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      img: "https://img.buzzfeed.com/buzzfeed-static/static/2019-01/8/14/tmp/buzzfeed-prod-web-05/tmp-name-2-23747-1546977174-0_dblbig.jpg?output-format=auto&output-quality=auto&resize=300:*;",
     },
     {
       id: 11,
@@ -170,7 +170,7 @@ https: app.locals.data = {
     {
       id: 18,
       title: "Dark",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      img: "https://i.scdn.co/image/ab67706c0000bebb59945d1c8e4430b6ad5f2207",
     },
     {
       id: 19,
