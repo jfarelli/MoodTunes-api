@@ -85,7 +85,7 @@ https: app.locals.data = {
     {
       id: 1,
       title: "Happy",
-      img: `https://github.com/jfarelli/MoodTunes-api/blob/500738ef7ebee30cc797067d0ee0e94d50b3363a/assets/happy.png`,
+      img: `https://files.slack.com/files-pri/T029P2S9M-F04237M3TPV/happy.png`,
     },
     {
       id: 2,
