@@ -6,16 +6,8 @@ app.use(cors());
 
 app.locals.data = {
   songs: [
-    {
+        {
       id: 1,
-      title: "Haaaay!",
-      artist: "Weird Al Yankovick",
-      urlKey: "someUrlKey",
-      genres: ["rock", "jazz", "parody"],
-      searchTerms: ["studious", "happy"],
-    },
-    {
-      id: 2,
       title: "Jerry Was A Race Car Driver",
       artist: "Primus",
       urlKey: "LBQ2305fLeA",
@@ -23,7 +15,7 @@ app.locals.data = {
       searchTerms: ["quirky", "fear", "weird"],
     },
     {
-      id: 3,
+      id: 2,
       title: "Kyle (I Found You)",
       artist: "Fred Again..",
       urlKey: "mmlQ2HPfXE",
@@ -31,23 +23,71 @@ app.locals.data = {
       searchTerms: ["floating", "Sentimental", "Peaceful"],
     },
     {
-      id: 4,
+      id: 3,
       title: "I'll Be Missing You",
       artist: "Faith Evans and Sean Combs",
       urlKey: "mmlQ2HPfXE",
       genres: ["R&B", "Soul", "Pop", "Hip-Hop", "Rap"],
       searchTerms: ["Peaceful", "Sad", "Dreamy"],
     },
+    {
+      id: 4,
+      title: "Grand Tour",
+      artist: "George Jones",
+      urlKey: "up0ql8YXxP0",
+      genres: ["country"],
+      searchTerms: ["sad"]
+    },
+    {
+      id: 5,
+      title: "Real Love Baby",
+      artist: "Father John Misty",
+      urlKey: "myGXncjeETw",
+      genres: ["alternative"],
+      searchTerms: ["happy", "eccentric", "floating", "hopeful"]
+    },
+    {
+      id: 6,
+      title: "It Was a Good Day",
+      artist: "Ice Cube",
+      urlKey: "h4UqMyldS7Q",
+      genres: ["rap", "hip-hop"],
+      searchTerms: ["epic", "floating", "laid-back", "smooth"]
+    },
+    {
+      id: 7,
+      title: "Wrongful Suspicion",
+      artist: "Rancid",
+      urlKey: "gsn0onH-ql8",
+      genres: ["punk-rock", "reggae"],
+      searchTerms: ["happy", "floating", "laid-back", "smooth"]
+    },
+    {
+      id: 8,
+      title: "Cold Little Heart",
+      artist: "Michael Kiwanuka",
+      urlKey: "nOubjLM9Cbc",
+      genres: ["soul"],
+      searchTerms: ["dreamy", "elegant", "laid-back", "smooth", "sexy"]
+    },
+    {
+      id: 9,
+      title: "Psycho Killer",
+      artist: "Talking Heads",
+      urlKey: "O52jAYa4Pm8",
+      genres: ["rock", "alternative"],
+      searchTerms: ["eccentric", "glamorous", "mysterious", "quirky", "weird"]
+    }
   ],
   moods: [
     {
       id: 1,
-      title: "Chasing",
-      img: "https://www.business2community.com/wp-content/uploads/2018/02/BeingChased-600x400.jpg",
+      title: "Happy",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
     {
       id: 2,
-      title: "Dark",
+      title: "Relaxing",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
     {
@@ -57,7 +97,7 @@ app.locals.data = {
     },
     {
       id: 4,
-      title: "Eccentric",
+      title: "Glamorous",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
     {
@@ -72,12 +112,12 @@ app.locals.data = {
     },
     {
       id: 7,
-      title: "Euphoric",
+      title: "Sad",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
     {
       id: 8,
-      title: "Fear",
+      title: "Smooth",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
     {
@@ -87,18 +127,18 @@ app.locals.data = {
     },
     {
       id: 10,
-      title: "Funny",
+      title: "Sexy",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
     {
       id: 11,
-      title: "Glamorous",
+      title: "Eccentric",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
-    {
+    { 
       id: 12,
-      title: "Happy",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      title: "Chasing",
+      img: "https://www.business2community.com/wp-content/uploads/2018/02/BeingChased-600x400.jpg",
     },
     {
       id: 13,
@@ -127,7 +167,7 @@ app.locals.data = {
     },
     {
       id: 18,
-      title: "Relaxing",
+      title: "Dark",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
     {
@@ -147,7 +187,7 @@ app.locals.data = {
     },
     {
       id: 22,
-      title: "Sad",
+      title: "Euphoric",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
     {
@@ -162,12 +202,12 @@ app.locals.data = {
     },
     {
       id: 25,
-      title: "Sexy",
+      title: "Funny",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
-    },
+    }, 
     {
       id: 26,
-      title: "Smooth",
+      title: "Fear",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
     {
@@ -187,6 +227,7 @@ app.locals.data = {
     },
   ],
 };
+
 
 app.get("/:id", (request, response) => {
   const data = app.locals.songs;
