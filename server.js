@@ -505,7 +505,7 @@ https: app.locals.data = {
       id: 58,
       title: "You Sexy Thing",
       artist: "Hot Chocolate",
-      urlKey: "O52jAYa4Pm8",
+      urlKey: "YUY9Y9RFiHY",
       genres: ["R & B", "soul"],
       searchTerms: ["eccentric", "glamorous", "mysterious", "quirky", "weird"],
     },
