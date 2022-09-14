@@ -230,6 +230,14 @@ https: app.locals.data = {
       genres: ["country"],
       searchTerms: ["happy", "eccentric", "funny", "glamorous"],
     },
+    {
+      id: 28,
+      title: "WWE Stone Cold theme song",
+      artist: "The Texas Rattle Snake",
+      urlKey: "MrJLsNo9sCU",
+      genres: ["rock", "alternative"],
+      searchTerms: ["eccentric", "epic", "marching", "chasing", "fear"],
+    },
   ],
   moods: [
     {
