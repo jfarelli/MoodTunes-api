@@ -238,6 +238,57 @@ https: app.locals.data = {
       genres: ["rock", "alternative"],
       searchTerms: ["eccentric", "epic", "marching", "chasing", "fear"],
     },
+    {
+      id: 29,
+      title: "Sexual Healing",
+      artist: "Marvin Gaye",
+      urlKey: "rjlSiASsUIs",
+      genres: ["R&B", "Soul"],
+      searchTerms: ["Romantic", "Sentimental", "Sexy", "Smooth"],
+    },
+
+    {
+      id: 30,
+      title: "How Does It Feel?",
+      artist: "D’Angelo",
+      urlKey: "SxVNOnPyvIU",
+      genres: ["R&B", "Soul", "Neo Soul"],
+      searchTerms: ["Romantic", "Sentimental", "Sexy", "Smooth"],
+    },
+
+    {
+      id: 31,
+      title: "When Doves Cry",
+      artist: "Prince & The Revolution",
+      urlKey: "UG3VcCAlUgE",
+      genres: ["R&B", "Soul"],
+      searchTerms: ["Sad", "Sentimental"],
+    },
+
+    {
+      id: 32,
+      title: `Let's Go Crazy`,
+      artist: "Prince & The Revolution",
+      urlKey: "aXJhDltzYVQ",
+      genres: ["R&B", "Soul"],
+      searchTerms: [
+        "Glamorous",
+        "Happy",
+        "Hopeful",
+        "Eccentric",
+        "Euphoric",
+        "Quirky",
+      ],
+    },
+
+    {
+      id: 33,
+      title: ` Purple Rain`,
+      artist: "Prince",
+      urlKey: "TvnYmWpD_T8",
+      genres: ["R&B", "Soul"],
+      searchTerms: ["Glamorous", "Sad", "Sentimental"],
+    },
   ],
   moods: [
     {
