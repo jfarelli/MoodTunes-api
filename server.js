@@ -30,7 +30,7 @@ https: app.locals.data = {
       artist: "Faith Evans and Sean Combs",
       urlKey: "mmlQ2HPfXE",
       genres: ["R&B", "Soul", "Pop", "Hip-Hop", "Rap"],
-      searchTerms: ["Peaceful", "Sad", "Dreamy"],
+      searchTerms: ["peaceful", "sad", "dreamy"],
     },
     {
       id: 4,
@@ -244,7 +244,7 @@ https: app.locals.data = {
       artist: "Marvin Gaye",
       urlKey: "rjlSiASsUIs",
       genres: ["R&B", "Soul"],
-      searchTerms: ["Romantic", "Sentimental", "Sexy", "Smooth"],
+      searchTerms: ["romantic", "sentimental", "sexy", "smooth"],
     },
 
     {
@@ -253,7 +253,7 @@ https: app.locals.data = {
       artist: "D’Angelo",
       urlKey: "SxVNOnPyvIU",
       genres: ["R&B", "Soul", "Neo Soul"],
-      searchTerms: ["Romantic", "Sentimental", "Sexy", "Smooth"],
+      searchTerms: ["romantic", "sentimental", "sexy", "smooth"],
     },
 
     {
@@ -262,7 +262,7 @@ https: app.locals.data = {
       artist: "Prince & The Revolution",
       urlKey: "UG3VcCAlUgE",
       genres: ["R&B", "Soul"],
-      searchTerms: ["Sad", "Sentimental"],
+      searchTerms: ["sad", "sentimental"],
     },
 
     {
@@ -272,12 +272,12 @@ https: app.locals.data = {
       urlKey: "aXJhDltzYVQ",
       genres: ["R&B", "Soul"],
       searchTerms: [
-        "Glamorous",
-        "Happy",
-        "Hopeful",
-        "Eccentric",
-        "Euphoric",
-        "Quirky",
+        "glamorous",
+        "happy",
+        "hopeful",
+        "eccentric",
+        "euphoric",
+        "quirky",
       ],
     },
 
@@ -287,7 +287,7 @@ https: app.locals.data = {
       artist: "Prince",
       urlKey: "TvnYmWpD_T8",
       genres: ["R&B", "Soul"],
-      searchTerms: ["Glamorous", "Sad", "Sentimental"],
+      searchTerms: ["glamorous", "sad", "sentimental"],
     },
 
     {
@@ -296,7 +296,7 @@ https: app.locals.data = {
       artist: "Phil Collins",
       urlKey: "YkADj0TPrJA",
       genres: ["Alternative", "Indie", "R&B", "Soul", "Pop", "Rock"],
-      searchTerms: ["Peaceful", "Dreamy", "Floating"],
+      searchTerms: ["peaceful", "dreamy", "floating"],
     },
     {
       id: 35,
@@ -304,7 +304,7 @@ https: app.locals.data = {
       artist: "Toto",
       urlKey: "YkADj0TPrJA",
       genres: ["Pop"],
-      searchTerms: ["Happy", "Epic"],
+      searchTerms: ["happy", "epic"],
     },
     {
       id: 36,
@@ -312,7 +312,7 @@ https: app.locals.data = {
       artist: "Glass Animals",
       urlKey: "jeo3an2M_Lo",
       genres: ["Alternative", "Indie", "R&B", "Soul", "Pop"],
-      searchTerms: ["Happy", "Euphoric", "Floating", "High AF"],
+      searchTerms: ["happy", "euphoric", "floating", "high af"],
     },
 
     {
@@ -321,7 +321,7 @@ https: app.locals.data = {
       artist: "Wu-Tang Clan",
       urlKey: "PBwAxmrE194",
       genres: ["Rap", "Hip-hop"],
-      searchTerms: ["Hopeful", "High AF"],
+      searchTerms: ["hopeful", "high af"],
     },
 
     {
@@ -331,12 +331,12 @@ https: app.locals.data = {
       urlKey: "S0Q4gqBUs7c",
       genres: ["Alternative", "Indie", "Dance", "Electronic"],
       searchTerms: [
-        "Relaxing",
-        "Dreamy",
-        "Floating",
-        "Hopeful",
-        "Euphoric",
-        "High AF",
+        "relaxing",
+        "dreamy",
+        "floating",
+        "hopeful",
+        "euphoric",
+        "high af",
       ],
     },
 
@@ -346,7 +346,7 @@ https: app.locals.data = {
       artist: "MEUTE",
       urlKey: "fKFbnhcNnjE",
       genres: ["Techno", "deep house", "house"],
-      searchTerms: ["Marching", "Happy", "Epic"],
+      searchTerms: ["marching", "happy", "epic"],
     },
 
     {
@@ -356,11 +356,11 @@ https: app.locals.data = {
       urlKey: "PWPafG8wEvc",
       genres: ["Dance", "Electronic"],
       searchTerms: [
-        "Sentimental",
-        "Dreamy",
-        "Smooth",
-        "Peaceful",
-        "Mysterious",
+        "sentimental",
+        "dreamy",
+        "smooth",
+        "peaceful",
+        "mysterious",
       ],
     },
     {
@@ -397,7 +397,7 @@ https: app.locals.data = {
     },
     {
       id: 45,
-      title: "Nobody Speak (ft. Run The Jewels",
+      title: "Nobody Speak (ft. Run The Jewels)",
       artist: "DJ Shadow",
       urlKey: "NUC2EQvdzmY",
       genres: ["rap", "hip-hop"],
