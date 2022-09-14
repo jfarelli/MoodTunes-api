@@ -16,14 +16,7 @@ https: app.locals.data = {
       genres: ["alternative rock", "funk metal", `children's music`],
       searchTerms: ["quirky", "fear", "weird"],
     },
-    {
-      id: 2,
-      title: "Kyle (I Found You)",
-      artist: "Fred Again..",
-      urlKey: "mmlQ2HPfXE",
-      genres: ["Dance", "Electronic", "Hip-Hop", "Rap", "Amapiano"],
-      searchTerms: ["floating", "Sentimental", "Peaceful"],
-    },
+
     {
       id: 3,
       title: "I'll Be Missing You",
