@@ -581,7 +581,7 @@ https: app.locals.data = {
       artist: "Poets of the Fall",
       urlKey: 'URJH3ZJzxB0',
       genres: ["Rock"],
-      searchTerms: ["Sad", ["Mysterious"]]
+      searchTerms: ["Sad", "Mysterious"]
     },
 
   ],
