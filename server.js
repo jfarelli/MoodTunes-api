@@ -117,7 +117,7 @@ https: app.locals.data = {
       title: "Watching the Detectives",
       artist: "Elvis Costello - Watching the Detectives",
       urlKey: "k1Qnt5bx1OI",
-      genres: ["piano", "easy-listening"],
+      genres: ["alternative", "rock"],
       searchTerms: ["eccentric", "marching", "weird"],
     },
     {
