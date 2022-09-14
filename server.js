@@ -700,7 +700,7 @@ https: app.locals.data = {
     },
     {
       id: 28,
-      title: "Suspense",
+      title: "High AF",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
     {
