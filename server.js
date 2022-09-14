@@ -614,8 +614,6 @@ https: app.locals.data = {
       genres: ["rock", "jam", "psychedelia"],
       searchTerms: ["euphoric", "happy", "epic", "eccentric", "dark"],
     },
-<<<<<<< HEAD
-=======
     {
       id: 66,
       title: "Darker Thoughts",
@@ -641,7 +639,6 @@ https: app.locals.data = {
       searchTerms: ["Sad", "Mysterious"]
     },
 
->>>>>>> 6e52febc37be282bc6c6cdbb74cb182aa9e23f4d
   ],
 
   moods: [
