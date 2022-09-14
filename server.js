@@ -289,7 +289,82 @@ https: app.locals.data = {
       genres: ["R&B", "Soul"],
       searchTerms: ["Glamorous", "Sad", "Sentimental"],
     },
+
+    {
+      id: 34,
+      title: "In The Air Tonight",
+      artist: "Phil Collins",
+      urlKey: "YkADj0TPrJA",
+      genres: ["Alternative", "Indie", "R&B", "Soul", "Pop", "Rock"],
+      searchTerms: ["Peaceful", "Dreamy", "Floating"],
+    },
+    {
+      id: 35,
+      title: "Africa",
+      artist: "Toto",
+      urlKey: "YkADj0TPrJA",
+      genres: ["Pop"],
+      searchTerms: ["Happy", "Epic"],
+    },
+    {
+      id: 36,
+      title: "Gooey",
+      artist: "Glass Animals",
+      urlKey: "jeo3an2M_Lo",
+      genres: ["Alternative", "Indie", "R&B", "Soul", "Pop"],
+      searchTerms: ["Happy", "Euphoric", "Floating", "High AF"],
+    },
+
+    {
+      id: 37,
+      title: "C.R.E.A.M.",
+      artist: "Wu-Tang Clan",
+      urlKey: "PBwAxmrE194",
+      genres: ["Rap", "Hip-hop"],
+      searchTerms: ["Hopeful", "High AF"],
+    },
+
+    {
+      id: 38,
+      title: "Kerala",
+      artist: "Bonobo",
+      urlKey: "S0Q4gqBUs7c",
+      genres: ["Alternative", "Indie", "Dance", "Electronic"],
+      searchTerms: [
+        "Relaxing",
+        "Dreamy",
+        "Floating",
+        "Hopeful",
+        "Euphoric",
+        "High AF",
+      ],
+    },
+
+    {
+      id: 39,
+      title: " You & Me (Flume Remix)",
+      artist: "MEUTE",
+      urlKey: "fKFbnhcNnjE",
+      genres: ["Techno", "deep house", "house"],
+      searchTerms: ["Marching", "Happy", "Epic"],
+    },
+
+    {
+      id: 40,
+      title: "Mile High",
+      artist: "James Blake",
+      urlKey: "PWPafG8wEvc",
+      genres: ["Dance", "Electronic"],
+      searchTerms: [
+        "Sentimental",
+        "Dreamy",
+        "Smooth",
+        "Peaceful",
+        "Mysterious",
+      ],
+    },
   ],
+
   moods: [
     {
       id: 1,
