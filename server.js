@@ -614,6 +614,34 @@ https: app.locals.data = {
       genres: ["rock", "jam", "psychedelia"],
       searchTerms: ["euphoric", "happy", "epic", "eccentric", "dark"],
     },
+<<<<<<< HEAD
+=======
+    {
+      id: 66,
+      title: "Darker Thoughts",
+      artist: "Paradise Lost",
+      urlKey: "URJH3ZJzxB0",
+      genres: ["Metal"],
+      searchTerms: ["Dark"]
+    },
+    {
+      id: 67,
+      title: "My Twin",
+      artist: "Katatonia",
+      urlKey: 'nH45PdkXF9I',
+      genres: ["Metal", "Rock"],
+      searchTerms: ["Dark", "Sad"]
+    },
+    {
+      id: 68,
+      title: "Carnival of Rust",
+      artist: "Poets of the Fall",
+      urlKey: 'URJH3ZJzxB0',
+      genres: ["Rock"],
+      searchTerms: ["Sad", "Mysterious"]
+    },
+
+>>>>>>> 6e52febc37be282bc6c6cdbb74cb182aa9e23f4d
   ],
 
   moods: [
