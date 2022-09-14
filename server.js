@@ -497,7 +497,15 @@ https: app.locals.data = {
       artist: "Grateful Dead",
       urlKey: "58JTV8kW2",
       genres: ["rock", "alternative"],
-      searchTerms: ["sexy", "sentimental", "euphoric", "romantic", "peaceful", "smooth", "dreamy"],
+      searchTerms: [
+        "sexy",
+        "sentimental",
+        "euphoric",
+        "romantic",
+        "peaceful",
+        "smooth",
+        "dreamy",
+      ],
     },
 
     {
@@ -515,16 +523,34 @@ https: app.locals.data = {
       artist: "Bill Withers",
       urlKey: "RDbEeaS6fuUoA",
       genres: ["R & B", "soul"],
-      searchTerms: ["sentimental", "euphoric", "romantic", "peaceful", "smooth", "dreamy"],
+      searchTerms: [
+        "sentimental",
+        "euphoric",
+        "romantic",
+        "peaceful",
+        "smooth",
+        "dreamy",
+      ],
     },
 
     {
       id: 60,
       title: "Do Right Woman, Do Right Man",
       artist: "Aretha Franklin",
-      urlKey: "58JTV8kW2",
+      urlKey: "VhdgFfNsst0",
       genres: ["R & B", "soul"],
-      searchTerms: ["relaxing", "happy", "glamourous", "sexy", "sentimental", "euphoric", "romantic", "peaceful", "smooth", "dreamy"],
+      searchTerms: [
+        "relaxing",
+        "happy",
+        "glamourous",
+        "sexy",
+        "sentimental",
+        "euphoric",
+        "romantic",
+        "peaceful",
+        "smooth",
+        "dreamy",
+      ],
     },
 
     {
@@ -533,7 +559,17 @@ https: app.locals.data = {
       artist: "Phish",
       urlKey: "Sbh8b45WN5A",
       genres: ["rock"],
-      searchTerms: ["sentimental", "euphoric", "peaceful", "smooth", "dreamy", "happy", "relaxing", "elegant", "epic"]
+      searchTerms: [
+        "sentimental",
+        "euphoric",
+        "peaceful",
+        "smooth",
+        "dreamy",
+        "happy",
+        "relaxing",
+        "elegant",
+        "epic",
+      ],
     },
     {
       id: 63,
@@ -541,7 +577,16 @@ https: app.locals.data = {
       artist: "Kurt Vile",
       urlKey: "pOFWHty4XFQ",
       genres: ["alternative", "indie"],
-      searchTerms: ["sentimental", "peaceful", "smooth", "dreamy", "happy", "relaxing", "elegant", "epic"]
+      searchTerms: [
+        "sentimental",
+        "peaceful",
+        "smooth",
+        "dreamy",
+        "happy",
+        "relaxing",
+        "elegant",
+        "epic",
+      ],
     },
     {
       id: 64,
@@ -549,7 +594,17 @@ https: app.locals.data = {
       artist: "Jerry Garcia",
       urlKey: "qKHh1eCwwno",
       genres: ["rock", "jam", "psychedelia"],
-      searchTerms: ["sentimental", "euphoric", "peaceful", "smooth", "dreamy", "happy", "relaxing", "elegant", "epic"]
+      searchTerms: [
+        "sentimental",
+        "euphoric",
+        "peaceful",
+        "smooth",
+        "dreamy",
+        "happy",
+        "relaxing",
+        "elegant",
+        "epic",
+      ],
     },
     {
       id: 65,
@@ -557,9 +612,8 @@ https: app.locals.data = {
       artist: "Phish",
       urlKey: "yZwRQ6bsm",
       genres: ["rock", "jam", "psychedelia"],
-      searchTerms: ["euphoric", "happy", "epic", "eccentric", "dark"]
+      searchTerms: ["euphoric", "happy", "epic", "eccentric", "dark"],
     },
-
   ],
 
   moods: [
