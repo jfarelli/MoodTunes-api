@@ -493,12 +493,73 @@ https: app.locals.data = {
     },
     {
       id: 57,
-      title: "No Rain",
-      artist: "Blind Melon",
-      urlKey: "3qVPNONdF58",
-      genres: ["alternative"],
-      searchTerms: ["laid-back", "happy", "quirky"],
+      title: "They Love Each Other",
+      artist: "Grateful Dead",
+      urlKey: "58JTV8kW2",
+      genres: ["rock", "alternative"],
+      searchTerms: ["sexy", "sentimental", "euphoric", "romantic", "peaceful", "smooth", "dreamy"],
     },
+
+    {
+      id: 58,
+      title: "You Sexy Thing",
+      artist: "Hot Chocolate",
+      urlKey: "O52jAYa4Pm8",
+      genres: ["R & B", "soul"],
+      searchTerms: ["eccentric", "glamorous", "mysterious", "quirky", "weird"],
+    },
+
+    {
+      id: 59,
+      title: "Lovely Day",
+      artist: "Bill Withers",
+      urlKey: "RDbEeaS6fuUoA",
+      genres: ["R & B", "soul"],
+      searchTerms: ["sentimental", "euphoric", "romantic", "peaceful", "smooth", "dreamy"],
+    },
+
+    {
+      id: 60,
+      title: "Do Right Woman, Do Right Man",
+      artist: "Aretha Franklin",
+      urlKey: "58JTV8kW2",
+      genres: ["R & B", "soul"],
+      searchTerms: ["relaxing", "happy", "glamourous", "sexy", "sentimental", "euphoric", "romantic", "peaceful", "smooth", "dreamy"],
+    },
+
+    {
+      id: 61,
+      title: "Silent in the Morning",
+      artist: "Phish",
+      urlKey: "Sbh8b45WN5A",
+      genres: ["rock"],
+      searchTerms: ["sentimental", "euphoric", "peaceful", "smooth", "dreamy", "happy", "relaxing", "elegant", "epic"]
+    },
+    {
+      id: 63,
+      title: "Bassackwards",
+      artist: "Kurt Vile",
+      urlKey: "pOFWHty4XFQ",
+      genres: ["alternative", "indie"],
+      searchTerms: ["sentimental", "peaceful", "smooth", "dreamy", "happy", "relaxing", "elegant", "epic"]
+    },
+    {
+      id: 64,
+      title: "Dear Prudence",
+      artist: "Jerry Garcia",
+      urlKey: "qKHh1eCwwno",
+      genres: ["rock", "jam", "psychedelia"],
+      searchTerms: ["sentimental", "euphoric", "peaceful", "smooth", "dreamy", "happy", "relaxing", "elegant", "epic"]
+    },
+    {
+      id: 65,
+      title: "Tweezer",
+      artist: "Phish",
+      urlKey: "yZwRQ6bsm",
+      genres: ["rock", "jam", "psychedelia"],
+      searchTerms: ["euphoric", "happy", "epic", "eccentric", "dark"]
+    },
+
   ],
 
   moods: [
