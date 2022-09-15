@@ -798,7 +798,7 @@ https: app.locals.data = {
     },
     {
       id: 9,
-      title: "Floating",
+      title: "High AF",
       img: "https://w0.peakpx.com/wallpaper/424/116/HD-wallpaper-take-me-away-aesthetic-ballons-clouds-dreamy-floating-mood-soft-takemeaway.jpg",
     },
     {
@@ -888,8 +888,8 @@ https: app.locals.data = {
     },
     {
       id: 27,
-      title: "High AF",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
+      title: "Floating",
+      img: "https://w0.peakpx.com/wallpaper/424/116/HD-wallpaper-take-me-away-aesthetic-ballons-clouds-dreamy-floating-mood-soft-takemeaway.jpg",
     },
     {
       id: 28,
