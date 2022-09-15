@@ -613,7 +613,7 @@ https: app.locals.data = {
       artist: "Paradise Lost",
       urlKey: "URJH3ZJzxB0",
       genres: ["Metal"],
-      searchTerms: ["Dark"],
+      searchTerms: ["Dark"]
     },
     {
       id: 67,
@@ -621,7 +621,7 @@ https: app.locals.data = {
       artist: "Katatonia",
       urlKey: "nH45PdkXF9I",
       genres: ["Metal", "Rock"],
-      searchTerms: ["Dark", "Sad"],
+      searchTerms: ["Dark", "Sad"]
     },
     {
       id: 68,
@@ -629,8 +629,119 @@ https: app.locals.data = {
       artist: "Poets of the Fall",
       urlKey: "MKk1u5RMTn4",
       genres: ["Rock"],
-      searchTerms: ["Sad", "Mysterious"],
+      searchTerms: ["Sad", "Mysterious"]
     },
+    {
+      id: 69,
+      title: "Make it Bun Dem",
+      artist: "Skrillex & Damien",
+      urlKey: "BGpzGu9Yp6Y",
+      genres: ["Dubstep", "Reggae"],
+      searchTerms: ["High AF", "Eccentric"]
+    },
+    {
+      id: 70,
+      title: "Minds Playin Tricks On Me",
+      artist: "Geto Boys",
+      urlKey: "IJtHdkyo0hc",
+      genres: ["Rap", "Gangsta Rap"],
+      searchTerms: ["High AF", "Dark", "Restless", "Mysterious"]
+    },
+    {
+      id: 71,
+      title: "ILL MIND OF HOPSIN 5",
+      artist: "Hopsin",
+      urlKey: "hRVOOwFNp5U",
+      genres: ["Rap"],
+      searchTerms: ["Dark", "Scary"]
+    },
+    {
+      id: 72,
+      title: "Set Trippin",
+      artist: "Casanova",
+      urlKey: "YiS24Ia44DQ",
+      genres: ["Rap", "Gangsta Rap"],
+      searchTerms: ["Dark", "High AF", "Eccentric"]
+    },
+    {
+      id: 73,
+      title: "Can't Be Touched",
+      artist: "Roy Jones Jr",
+      urlKey: "ivPKDBzVhow",
+      genres: ["Rap", "Gangsta Rap"],
+      searchTerms: ["Dark", "High AF", "Eccentric", "Epic"]
+    },
+    {
+      id: 74,
+      title: "Panzerkampf",
+      artist: "Sabaton",
+      urlKey: "3vEW_r4Swn8",
+      genres: ["Metal", "Heavy Metal", ""],
+      searchTerms: ["Marching", "Eccentric", "Epic"]
+    },
+    {
+      id: 75,
+      title: "Disillusion in a Discordant System",
+      artist: "Acrania",
+      urlKey: "ArrqUWKvq7g",
+      genres: ["Metal", "Death Metal", "Speed Metal"],
+      searchTerms: ["Eccentric", "Epic", "Scary"]
+    },
+    {
+      id: 76,
+      title: "The Bleeding",
+      artist: "Five Finger Death Punch",
+      urlKey: "KAuyEG7JPbE",
+      genres: ["Metal", "Heavy Metal", "Nu Metal"],
+      searchTerms: ["Dark", "Scary", "Sad"]
+    },
+    {
+      id: 76,
+      title: "Runnin Up That Hill",
+      artist: "Kate Bush",
+      urlKey: "wp43OdtAAkM",
+      genres: ["Alternative", "Pop"],
+      searchTerms: ["Floating", "Eccentric", "Euphoric"]
+    },
+    {
+      id: 77,
+      title: "Total Eclipse of The Heart",
+      artist: "Bonnie Tyler",
+      urlKey: "lcOxhH8N3Bo",
+      genres: ["Alternative", "Pop"],
+      searchTerms: ["Epic", "Eccentric", "Euphoric", "Dreamy"]
+    },
+    {
+      id: 78,
+      title: "I Was Made For Lovin' You",
+      artist: "Kiss",
+      urlKey: "12fJAnaif34",
+      genres: ["Rock", "Classic Rock"],
+      searchTerms: ["Epic", "Euphoric", "Hopeful"]
+    },
+    {
+      id: 79,
+      title: "Like a Stone",
+      artist: "Audioslave",
+      urlKey: "7QU1nvuxaMA",
+      genres: ["Rock", "Classic Rock"],
+      searchTerms: ["Dark", "Sad"]
+    },
+    {
+      id: 80,
+      title: "Black Hole Sun",
+      artist: "Soundgarden",
+      urlKey: "3mbBbFH9fAg",
+      genres: ["Rock"],
+      searchTerms: ["Dark", "Sad", "Sentimental"]
+    },
+
+
+
+
+
+
+
   ],
 
   moods: [
