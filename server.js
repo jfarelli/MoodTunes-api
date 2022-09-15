@@ -13,7 +13,7 @@ https: app.locals.data = {
       title: "Jerry Was A Race Car Driver",
       artist: "Primus",
       urlKey: "LBQ2305fLeA",
-      genres: ["alternative rock", "funk metal", `children's music`],
+      genres: ["Alternative Rock", "Funk Metal", `Children's Music`],
       searchTerms: ["quirky", "fear", "weird"],
     },
 
@@ -30,7 +30,7 @@ https: app.locals.data = {
       title: "Grand Tour",
       artist: "George Jones",
       urlKey: "up0ql8YXxP0",
-      genres: ["country"],
+      genres: ["Country"],
       searchTerms: ["sad"],
     },
     {
@@ -38,7 +38,7 @@ https: app.locals.data = {
       title: "Real Love Baby",
       artist: "Father John Misty",
       urlKey: "myGXncjeETw",
-      genres: ["alternative"],
+      genres: ["Alternative"],
       searchTerms: ["happy", "eccentric", "floating", "hopeful"],
     },
     {
@@ -46,7 +46,7 @@ https: app.locals.data = {
       title: "It Was a Good Day",
       artist: "Ice Cube",
       urlKey: "h4UqMyldS7Q",
-      genres: ["rap", "hip-hop"],
+      genres: ["Rap", "Hip-Hop"],
       searchTerms: ["epic", "floating", "laid-back", "smooth"],
     },
     {
@@ -54,7 +54,7 @@ https: app.locals.data = {
       title: "Wrongful Suspicion",
       artist: "Rancid",
       urlKey: "gsn0onH-ql8",
-      genres: ["punk-rock", "reggae"],
+      genres: ["Punk-Rock", "Reggae"],
       searchTerms: ["happy", "floating", "laid-back", "smooth"],
     },
     {
@@ -62,7 +62,7 @@ https: app.locals.data = {
       title: "Cold Little Heart",
       artist: "Michael Kiwanuka",
       urlKey: "nOubjLM9Cbc",
-      genres: ["soul"],
+      genres: ["Soul"],
       searchTerms: ["dreamy", "elegant", "laid-back", "smooth", "sexy"],
     },
     {
@@ -70,15 +70,22 @@ https: app.locals.data = {
       title: "Psycho Killer",
       artist: "Talking Heads",
       urlKey: "O52jAYa4Pm8",
-      genres: ["rock", "alternative"],
-      searchTerms: ["eccentric", "glamorous", "mysterious", "quirky", "weird"],
+      genres: ["Rock", "Alternative"],
+      searchTerms: [
+        "eccentric",
+        "glamorous",
+        "mysterious",
+        "quirky",
+        "weird",
+        "high af",
+      ],
     },
     {
       id: 10,
       title: "Brandy (You're a Fine Girl)",
       artist: "Looking Glass",
       urlKey: "DVx8L7a3MuE",
-      genres: ["light-rock", "easy-listening"],
+      genres: ["Light-Rock", "Easy-Listening"],
       searchTerms: ["happy", "floating", "laid-back"],
     },
     {
@@ -86,7 +93,7 @@ https: app.locals.data = {
       title: "My First My Last My Everything",
       artist: "Barry White",
       urlKey: "tB54XUhA9_w",
-      genres: ["soul"],
+      genres: ["Soul"],
       searchTerms: ["smooth"],
     },
     {
@@ -94,7 +101,7 @@ https: app.locals.data = {
       title: "Epic",
       artist: "Faith No More",
       urlKey: "ZG_k5CSYKhg",
-      genres: ["rock", "alternative"],
+      genres: ["Rock", "Alternative"],
       searchTerms: ["epic"],
     },
     {
@@ -102,7 +109,7 @@ https: app.locals.data = {
       title: "Where is My Mind",
       artist: "Maxence Cyrin",
       urlKey: "90Fpjwctqlw",
-      genres: ["piano", "easy-listening"],
+      genres: ["Piano", "Easy-Listening"],
       searchTerms: ["sad", "elegant", "relaxing", "dreamy", "floating"],
     },
     {
@@ -110,7 +117,7 @@ https: app.locals.data = {
       title: "Watching the Detectives",
       artist: "Elvis Costello - Watching the Detectives",
       urlKey: "k1Qnt5bx1OI",
-      genres: ["alternative", "rock"],
+      genres: ["Alternative", "Rock"],
       searchTerms: ["eccentric", "marching", "weird"],
     },
     {
@@ -118,7 +125,7 @@ https: app.locals.data = {
       title: "Amber",
       artist: "311",
       urlKey: "SUFSB2plwzM",
-      genres: ["rock", "reggae"],
+      genres: ["Rock", "Reggae"],
       searchTerms: ["dreamy", "floating", "laid-back"],
     },
     {
@@ -126,7 +133,7 @@ https: app.locals.data = {
       title: "You Never Even Called Me By My Name",
       artist: "David Allan Coe",
       urlKey: "LZbso7sNqv0",
-      genres: ["country"],
+      genres: ["Country"],
       searchTerms: ["funny", "quirky", "sentimental"],
     },
     {
@@ -134,7 +141,7 @@ https: app.locals.data = {
       title: "Against the Wind",
       artist: "Bob Seiger and the Silver Bullet Band",
       urlKey: "2vRsEC65NTA",
-      genres: ["rock 'n roll"],
+      genres: ["Rock 'n Roll"],
       searchTerms: ["laid-back", "floating", "peaceful"],
     },
     {
@@ -142,7 +149,7 @@ https: app.locals.data = {
       title: "Whispered Words",
       artist: "Dan Auerbach",
       urlKey: "e7CbNvOiUdg",
-      genres: ["alternative"],
+      genres: ["Alternative"],
       searchTerms: ["laid-back", "floating", "peaceful"],
     },
     {
@@ -150,7 +157,7 @@ https: app.locals.data = {
       title: "Shadrach",
       artist: "Beastie Boys",
       urlKey: "H6nrmFdlXc0",
-      genres: ["rap", "hip-hop"],
+      genres: ["Rap", "Hip-Hop"],
       searchTerms: ["eccentric", "running", "marching"],
     },
     {
@@ -158,7 +165,7 @@ https: app.locals.data = {
       title: "Take Me Home, Country Roads",
       artist: "John Denver",
       urlKey: "1vrEljMfXYo",
-      genres: ["country", "light-rock"],
+      genres: ["Country", "Light-Rock"],
       searchTerms: ["eccentric", "elegant", "euphoric", "floating"],
     },
     {
@@ -166,7 +173,7 @@ https: app.locals.data = {
       title: "Push Off",
       artist: "The Palms",
       urlKey: "MgZoNI0VmdA",
-      genres: ["alternative"],
+      genres: ["Alternative"],
       searchTerms: ["eccentric", "elegant", "euphoric", "floating", "smooth"],
     },
     {
@@ -174,7 +181,7 @@ https: app.locals.data = {
       title: "Walk Like an Egyption",
       artist: "The Bangles",
       urlKey: "Cv6tuzHUuuk",
-      genres: ["rock"],
+      genres: ["Rock"],
       searchTerms: ["happy", "epic"],
     },
     {
@@ -182,13 +189,14 @@ https: app.locals.data = {
       title: "Careless Whisper",
       artist: "George Michael",
       urlKey: "izGwDsrQ1eQ",
-      genres: ["light-rock", "glam-rock"],
+      genres: ["Light-Rock", "Glam-Rock"],
       searchTerms: [
         "eccentric",
         "epic",
         "floating",
         "laid-back",
         "sentimental",
+        "high af",
       ],
     },
     {
@@ -196,7 +204,7 @@ https: app.locals.data = {
       title: "Stickin'n in My Eye",
       artist: "NOFX",
       urlKey: "A2vn18DVSbU",
-      genres: ["punk-rock"],
+      genres: ["Punk-Rock"],
       searchTerms: ["eccentric", "epic", "running", "laid-back"],
     },
     {
@@ -204,7 +212,7 @@ https: app.locals.data = {
       title: "Desperate Times",
       artist: "Killswitch Engage",
       urlKey: "wFO8qiW8WzQ",
-      genres: ["punk-rock"],
+      genres: ["Punk-Rock"],
       searchTerms: ["angry", "dark", "fear", "scary", "heavy"],
     },
     {
@@ -212,7 +220,7 @@ https: app.locals.data = {
       title: "Beer For My Horses (ft. Willie Nelson)",
       artist: "Toby Keith",
       urlKey: "o1JOFhfoAD4",
-      genres: ["country"],
+      genres: ["Country"],
       searchTerms: ["happy", "laid-back"],
     },
     {
@@ -220,7 +228,7 @@ https: app.locals.data = {
       title: "Take Your Mama",
       artist: "Scissor Sisters",
       urlKey: "od7-fyGa9DQ",
-      genres: ["country"],
+      genres: ["Country"],
       searchTerms: ["happy", "eccentric", "funny", "glamorous"],
     },
     {
@@ -228,7 +236,7 @@ https: app.locals.data = {
       title: "WWE Stone Cold theme song",
       artist: "The Texas Rattle Snake",
       urlKey: "MrJLsNo9sCU",
-      genres: ["rock", "alternative"],
+      genres: ["Rock", "Alternative"],
       searchTerms: ["eccentric", "epic", "marching", "chasing", "fear"],
     },
     {
@@ -289,7 +297,7 @@ https: app.locals.data = {
       artist: "Phil Collins",
       urlKey: "YkADj0TPrJA",
       genres: ["Alternative", "Indie", "R&B", "Soul", "Pop", "Rock"],
-      searchTerms: ["peaceful", "dreamy", "floating"],
+      searchTerms: ["peaceful", "dreamy", "floating", "high af"],
     },
     {
       id: 35,
@@ -335,10 +343,10 @@ https: app.locals.data = {
 
     {
       id: 39,
-      title: " You & Me (Flume Remix)",
+      title: "You & Me (Flume Remix)",
       artist: "MEUTE",
       urlKey: "fKFbnhcNnjE",
-      genres: ["Techno", "deep house", "house"],
+      genres: ["Techno", "Deep House", "House"],
       searchTerms: ["marching", "happy", "epic"],
     },
 
@@ -361,7 +369,7 @@ https: app.locals.data = {
       title: "Hero",
       artist: "Enrique Iglesias",
       urlKey: "koJlIGDImiU",
-      genres: ["light-rock", "easy-listening"],
+      genres: ["Light-Rock", "Easy-Listening"],
       searchTerms: ["sexy", "romantic"],
     },
     {
@@ -369,15 +377,15 @@ https: app.locals.data = {
       title: "I Want it That Way",
       artist: "Backstreet Boys",
       urlKey: "4fndeDfaWCg",
-      genres: ["alternative", "boy-band"],
-      searchTerms: ["sexy", "romantic"],
+      genres: ["Alternative", "Boy-Band"],
+      searchTerms: ["sexy", "romantic", "high af"],
     },
     {
       id: 43,
       title: "End of the Road",
       artist: "Boyz II Men",
       urlKey: "zDKO6XYXioc",
-      genres: ["r 'n b", "soul"],
+      genres: ["R&B", "Soul"],
       searchTerms: ["sexy", "romantic"],
     },
     {
@@ -385,7 +393,7 @@ https: app.locals.data = {
       title: "How Am I Supposed To Live Without You",
       artist: "Michael Bolton",
       urlKey: "YFood_bTOX4",
-      genres: ["soul"],
+      genres: ["Soul"],
       searchTerms: ["sexy", "romantic", "studious"],
     },
     {
@@ -393,7 +401,7 @@ https: app.locals.data = {
       title: "Nobody Speak (ft. Run The Jewels)",
       artist: "DJ Shadow",
       urlKey: "NUC2EQvdzmY",
-      genres: ["rap", "hip-hop"],
+      genres: ["Rap", "Hip-Hop"],
       searchTerms: ["epic", "running"],
     },
     {
@@ -401,7 +409,7 @@ https: app.locals.data = {
       title: "Die By the Drop",
       artist: "The Dead Weather",
       urlKey: "K0YI0UUazkU",
-      genres: ["rock"],
+      genres: ["Rock"],
       searchTerms: ["epic", "running", "heavy"],
     },
     {
@@ -409,7 +417,7 @@ https: app.locals.data = {
       title: "Steal Away",
       artist: "Murder by Death",
       urlKey: "e4o875fwWtA",
-      genres: ["alternative"],
+      genres: ["Alternative"],
       searchTerms: ["dark", "essentric", "mysterious"],
     },
     {
@@ -417,7 +425,7 @@ https: app.locals.data = {
       title: "Time After Time",
       artist: "Cindy Lauper",
       urlKey: "VdQY7BusJNU",
-      genres: ["alternative"],
+      genres: ["Alternative"],
       searchTerms: ["romantic", "elegant", "sentimental"],
     },
     {
@@ -425,7 +433,7 @@ https: app.locals.data = {
       title: "Van Helsing Boombox",
       artist: "Man Man",
       urlKey: "rOaee8Qss0w",
-      genres: ["alternative"],
+      genres: ["Alternative"],
       searchTerms: ["essentric", "quirky", "weird"],
     },
     {
@@ -433,7 +441,7 @@ https: app.locals.data = {
       title: "With a Little Help from My Friends",
       artist: "Joe Cocker",
       urlKey: "nCrlyX6XbTU",
-      genres: ["rock"],
+      genres: ["Rock"],
       searchTerms: ["essentric", "epic"],
     },
     {
@@ -441,7 +449,7 @@ https: app.locals.data = {
       title: "Fuck You Bitch",
       artist: "Wheeler Walker Jr.",
       urlKey: "myJDBos5Vyw",
-      genres: ["country"],
+      genres: ["Country"],
       searchTerms: ["essentric", "funny", "quirky", "weird"],
     },
     {
@@ -449,7 +457,7 @@ https: app.locals.data = {
       title: "Rocket Man (I Think It's Going to Be a Long, Long Time)",
       artist: "Elton John",
       urlKey: "DtVBCG6ThDk",
-      genres: ["rock"],
+      genres: ["Rock"],
       searchTerms: ["epic", "floating"],
     },
     {
@@ -457,7 +465,7 @@ https: app.locals.data = {
       title: "It's Too Late",
       artist: "Rodney Carrington",
       urlKey: "P7rTUTedclw",
-      genres: ["country"],
+      genres: ["Country"],
       searchTerms: ["funny", "quirky"],
     },
     {
@@ -465,7 +473,7 @@ https: app.locals.data = {
       title: "Easy",
       artist: "Faith No More",
       urlKey: "vPzDTfIb0DU",
-      genres: ["alternative", "rock"],
+      genres: ["Alternative", "Rock"],
       searchTerms: ["laid-back", "relaxing"],
     },
     {
@@ -473,7 +481,7 @@ https: app.locals.data = {
       title: "Thunder Kiss '65",
       artist: "White Zombie",
       urlKey: "yPNFVj-pISU",
-      genres: ["metal", "hard-rock"],
+      genres: ["Metal", "Hard-Rock"],
       searchTerms: ["heavy", "dark", "angry"],
     },
     {
@@ -481,7 +489,7 @@ https: app.locals.data = {
       title: "No Rain",
       artist: "Blind Melon",
       urlKey: "3qVPNONdF58",
-      genres: ["alternative"],
+      genres: ["Alternative"],
       searchTerms: ["laid-back", "happy", "quirky"],
     },
     {
@@ -489,7 +497,7 @@ https: app.locals.data = {
       title: "They Love Each Other",
       artist: "Grateful Dead",
       urlKey: "58JTV8kW2_8",
-      genres: ["rock", "alternative"],
+      genres: ["Rock", "Alternative"],
       searchTerms: [
         "sexy",
         "sentimental",
@@ -498,6 +506,7 @@ https: app.locals.data = {
         "peaceful",
         "smooth",
         "dreamy",
+        "high af",
       ],
     },
 
@@ -506,7 +515,7 @@ https: app.locals.data = {
       title: "You Sexy Thing",
       artist: "Hot Chocolate",
       urlKey: "YUY9Y9RFiHY",
-      genres: ["R & B", "soul"],
+      genres: ["R&B", "Soul"],
       searchTerms: ["eccentric", "glamorous", "mysterious", "quirky", "weird"],
     },
 
@@ -515,7 +524,7 @@ https: app.locals.data = {
       title: "Lovely Day",
       artist: "Bill Withers",
       urlKey: "bEeaS6fuUoA",
-      genres: ["R & B", "soul"],
+      genres: ["R&B", "Soul"],
       searchTerms: [
         "sentimental",
         "euphoric",
@@ -523,6 +532,7 @@ https: app.locals.data = {
         "peaceful",
         "smooth",
         "dreamy",
+        "high af",
       ],
     },
 
@@ -531,7 +541,7 @@ https: app.locals.data = {
       title: "Do Right Woman, Do Right Man",
       artist: "Aretha Franklin",
       urlKey: "VhdgFfNsst0",
-      genres: ["R & B", "soul"],
+      genres: ["R&B", "Soul"],
       searchTerms: [
         "relaxing",
         "happy",
@@ -551,7 +561,7 @@ https: app.locals.data = {
       title: "Silent in the Morning",
       artist: "Phish",
       urlKey: "Sbh8b45WN5A",
-      genres: ["rock"],
+      genres: ["Rock"],
       searchTerms: [
         "sentimental",
         "euphoric",
@@ -562,6 +572,7 @@ https: app.locals.data = {
         "relaxing",
         "elegant",
         "epic",
+        "high af",
       ],
     },
     {
@@ -569,7 +580,7 @@ https: app.locals.data = {
       title: "Bassackwards",
       artist: "Kurt Vile",
       urlKey: "pOFWHty4XFQ",
-      genres: ["alternative", "indie"],
+      genres: ["Alternative", "Indie"],
       searchTerms: [
         "sentimental",
         "peaceful",
@@ -586,7 +597,7 @@ https: app.locals.data = {
       title: "Dear Prudence",
       artist: "Jerry Garcia",
       urlKey: "qKHh1eCwwno",
-      genres: ["rock", "jam", "psychedelia"],
+      genres: ["Rock", "Jam", "Psychedelia"],
       searchTerms: [
         "sentimental",
         "euphoric",
@@ -597,6 +608,7 @@ https: app.locals.data = {
         "relaxing",
         "elegant",
         "epic",
+        +"high af",
       ],
     },
     // {
@@ -604,7 +616,7 @@ https: app.locals.data = {
     //   title: "Tweezer",
     //   artist: "Phish",
     //   urlKey: "yZwRQ6bsm_k",
-    //   genres: ["rock", "jam", "psychedelia"],
+    //   genres: ["Rock", "Jam", "Psychedelia"],
     //   searchTerms: ["euphoric", "happy", "epic", "eccentric", "dark"],
     // },
     {
@@ -673,6 +685,7 @@ https: app.locals.data = {
       genres: ["Rap"],
       searchTerms: ["dark", "scary"]
     },
+
     {
       id: 72,
       title: "Set Trippin",
@@ -680,6 +693,7 @@ https: app.locals.data = {
       urlKey: "YiS24Ia44DQ",
       genres: ["Rap", "Gangsta Rap"],
       searchTerms: ["dark", "high af", "eccentric"]
+
     },
     {
       id: 73,
@@ -695,7 +709,9 @@ https: app.locals.data = {
       artist: "Sabaton",
       urlKey: "3vEW_r4Swn8",
       genres: ["Metal", "Heavy Metal", ""],
+
       searchTerms: ["marching", "eccentric", "epic"]
+
     },
     {
       id: 75,
@@ -703,7 +719,9 @@ https: app.locals.data = {
       artist: "Acrania",
       urlKey: "ArrqUWKvq7g",
       genres: ["Metal", "Death Metal", "Speed Metal"],
+
       searchTerms: ["eccentric", "epic", "scary"]
+
     },
     {
       id: 76,
@@ -753,13 +771,6 @@ https: app.locals.data = {
       genres: ["Rock"],
       searchTerms: ["dark", "sad", "sentimental"]
     },
-
-
-
-
-
-
-
   ],
 
   moods: [
