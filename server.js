@@ -608,12 +608,30 @@ https: app.locals.data = {
     //   searchTerms: ["euphoric", "happy", "epic", "eccentric", "dark"],
     // },
     {
+      id: 64,
+      title: "Dear Prudence",
+      artist: "Jerry Garcia",
+      urlKey: "qKHh1eCwwno",
+      genres: ["rock", "jam", "psychedelia"],
+      searchTerms: [
+        "sentimental",
+        "euphoric",
+        "peaceful",
+        "smooth",
+        "dreamy",
+        "happy",
+        "relaxing",
+        "elegant",
+        "epic",
+      ],
+    },
+    {
       id: 66,
       title: "Darker Thoughts",
       artist: "Paradise Lost",
       urlKey: "URJH3ZJzxB0",
       genres: ["Metal"],
-      searchTerms: ["Dark"]
+      searchTerms: ["dark", "sad"]
     },
     {
       id: 67,
@@ -621,7 +639,7 @@ https: app.locals.data = {
       artist: "Katatonia",
       urlKey: "nH45PdkXF9I",
       genres: ["Metal", "Rock"],
-      searchTerms: ["Dark", "Sad"]
+      searchTerms: ["dark", "sad"]
     },
     {
       id: 68,
@@ -629,7 +647,7 @@ https: app.locals.data = {
       artist: "Poets of the Fall",
       urlKey: "MKk1u5RMTn4",
       genres: ["Rock"],
-      searchTerms: ["Sad", "Mysterious"]
+      searchTerms: ["sad", "mysterious"]
     },
     {
       id: 69,
@@ -637,7 +655,7 @@ https: app.locals.data = {
       artist: "Skrillex & Damien",
       urlKey: "BGpzGu9Yp6Y",
       genres: ["Dubstep", "Reggae"],
-      searchTerms: ["High AF", "Eccentric"]
+      searchTerms: ["high af", "eccentric"]
     },
     {
       id: 70,
@@ -645,7 +663,7 @@ https: app.locals.data = {
       artist: "Geto Boys",
       urlKey: "IJtHdkyo0hc",
       genres: ["Rap", "Gangsta Rap"],
-      searchTerms: ["High AF", "Dark", "Restless", "Mysterious"]
+      searchTerms: ["high af", "dark", "restless", "mysterious"]
     },
     {
       id: 71,
@@ -653,7 +671,7 @@ https: app.locals.data = {
       artist: "Hopsin",
       urlKey: "hRVOOwFNp5U",
       genres: ["Rap"],
-      searchTerms: ["Dark", "Scary"]
+      searchTerms: ["dark", "scary"]
     },
     {
       id: 72,
@@ -661,7 +679,7 @@ https: app.locals.data = {
       artist: "Casanova",
       urlKey: "YiS24Ia44DQ",
       genres: ["Rap", "Gangsta Rap"],
-      searchTerms: ["Dark", "High AF", "Eccentric"]
+      searchTerms: ["dark", "high af", "eccentric"]
     },
     {
       id: 73,
@@ -669,7 +687,7 @@ https: app.locals.data = {
       artist: "Roy Jones Jr",
       urlKey: "ivPKDBzVhow",
       genres: ["Rap", "Gangsta Rap"],
-      searchTerms: ["Dark", "High AF", "Eccentric", "Epic"]
+      searchTerms: ["dark", "high af", "eccentric", "epic"]
     },
     {
       id: 74,
@@ -677,7 +695,7 @@ https: app.locals.data = {
       artist: "Sabaton",
       urlKey: "3vEW_r4Swn8",
       genres: ["Metal", "Heavy Metal", ""],
-      searchTerms: ["Marching", "Eccentric", "Epic"]
+      searchTerms: ["marching", "eccentric", "epic"]
     },
     {
       id: 75,
@@ -685,7 +703,7 @@ https: app.locals.data = {
       artist: "Acrania",
       urlKey: "ArrqUWKvq7g",
       genres: ["Metal", "Death Metal", "Speed Metal"],
-      searchTerms: ["Eccentric", "Epic", "Scary"]
+      searchTerms: ["eccentric", "epic", "scary"]
     },
     {
       id: 76,
@@ -693,7 +711,7 @@ https: app.locals.data = {
       artist: "Five Finger Death Punch",
       urlKey: "KAuyEG7JPbE",
       genres: ["Metal", "Heavy Metal", "Nu Metal"],
-      searchTerms: ["Dark", "Scary", "Sad"]
+      searchTerms: ["dark", "scary", "sad"]
     },
     {
       id: 76,
@@ -701,7 +719,7 @@ https: app.locals.data = {
       artist: "Kate Bush",
       urlKey: "wp43OdtAAkM",
       genres: ["Alternative", "Pop"],
-      searchTerms: ["Floating", "Eccentric", "Euphoric"]
+      searchTerms: ["floating", "eccentric", "euphoric"]
     },
     {
       id: 77,
@@ -709,7 +727,7 @@ https: app.locals.data = {
       artist: "Bonnie Tyler",
       urlKey: "lcOxhH8N3Bo",
       genres: ["Alternative", "Pop"],
-      searchTerms: ["Epic", "Eccentric", "Euphoric", "Dreamy"]
+      searchTerms: ["epic", "eccentric", "euphoric", "dreamy"]
     },
     {
       id: 78,
@@ -717,7 +735,7 @@ https: app.locals.data = {
       artist: "Kiss",
       urlKey: "12fJAnaif34",
       genres: ["Rock", "Classic Rock"],
-      searchTerms: ["Epic", "Euphoric", "Hopeful"]
+      searchTerms: ["epic", "euphoric", "hopeful"]
     },
     {
       id: 79,
@@ -725,7 +743,7 @@ https: app.locals.data = {
       artist: "Audioslave",
       urlKey: "7QU1nvuxaMA",
       genres: ["Rock", "Classic Rock"],
-      searchTerms: ["Dark", "Sad"]
+      searchTerms: ["dark", "Sad"]
     },
     {
       id: 80,
@@ -733,7 +751,7 @@ https: app.locals.data = {
       artist: "Soundgarden",
       urlKey: "3mbBbFH9fAg",
       genres: ["Rock"],
-      searchTerms: ["Dark", "Sad", "Sentimental"]
+      searchTerms: ["dark", "sad", "sentimental"]
     },
 
 
