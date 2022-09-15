@@ -608,7 +608,7 @@ https: app.locals.data = {
         "relaxing",
         "elegant",
         "epic",
-        +"high af",
+        "high af",
       ],
     },
     // {
@@ -619,24 +619,6 @@ https: app.locals.data = {
     //   genres: ["Rock", "Jam", "Psychedelia"],
     //   searchTerms: ["euphoric", "happy", "epic", "eccentric", "dark"],
     // },
-    {
-      id: 64,
-      title: "Dear Prudence",
-      artist: "Jerry Garcia",
-      urlKey: "qKHh1eCwwno",
-      genres: ["rock", "jam", "psychedelia"],
-      searchTerms: [
-        "sentimental",
-        "euphoric",
-        "peaceful",
-        "smooth",
-        "dreamy",
-        "happy",
-        "relaxing",
-        "elegant",
-        "epic",
-      ],
-    },
     {
       id: 66,
       title: "Darker Thoughts",
