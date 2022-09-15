@@ -888,16 +888,11 @@ https: app.locals.data = {
     },
     {
       id: 27,
-      title: "Sneaking",
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
-    },
-    {
-      id: 28,
       title: "High AF",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
     {
-      id: 29,
+      id: 28,
       title: "Weird",
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRomK6c1C-ls2QaArwg5b6FCzmR0k93r13cwg&usqp=CAU",
     },
