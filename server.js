@@ -939,7 +939,16 @@ https: app.locals.data = {
       artist: "Billy Strings",
       urlKey: "kx3NOJ-oCfo",
       genres: ["country"],
-      searchTerms: ["happy", "euphoric", "floating", "high af", "romantic", "sexy", "peaceful", "sentimental"],
+      searchTerms: [
+        "happy",
+        "euphoric",
+        "floating",
+        "high af",
+        "romantic",
+        "sexy",
+        "peaceful",
+        "sentimental",
+      ],
     },
 
     {
@@ -983,7 +992,7 @@ https: app.locals.data = {
       artist: "Phish",
       urlKey: "rGIg9w9qmlA",
       genres: ["Rock"],
-      searchTerms: ["scary", "weird",],
+      searchTerms: ["scary", "weird"],
     },
     {
       id: 108,
@@ -991,7 +1000,7 @@ https: app.locals.data = {
       artist: "Alice Cooper",
       urlKey: "Qq4j1LtCdww",
       genres: ["Glamrock", "Rock"],
-      searchTerms: ["glamorous", "romantic"]
+      searchTerms: ["glamorous", "romantic"],
     },
     {
       id: 109,
@@ -999,7 +1008,7 @@ https: app.locals.data = {
       artist: "Skid Row",
       urlKey: "Ghd2bkIadG4",
       genres: ["Glamrock", "Rock"],
-      searchTerms: ["glamorous", "dark", "sad"]
+      searchTerms: ["glamorous", "dark", "sad"],
     },
     {
       id: 110,
@@ -1007,7 +1016,7 @@ https: app.locals.data = {
       artist: "Warrant",
       urlKey: "OjyZKfdwlng",
       genres: ["Glamrock", "Rock"],
-      searchTerms: ["glamorous", "eccentric", "euphoric"]
+      searchTerms: ["glamorous", "eccentric", "euphoric"],
     },
     {
       id: 111,
@@ -1015,7 +1024,7 @@ https: app.locals.data = {
       artist: "Mötley Crüe",
       urlKey: "WqOlHt--fOI",
       genres: ["Glamrock", "Metal"],
-      searchTerms: ["glamorous", "eccentric"]
+      searchTerms: ["glamorous", "eccentric"],
     },
     {
       id: 112,
@@ -1023,7 +1032,7 @@ https: app.locals.data = {
       artist: "Aerosmith",
       urlKey: "cvCFRGn7EEQ",
       genres: ["Glamrock", "Rock"],
-      searchTerms: ["glamorous", "eccentric", "epic"]
+      searchTerms: ["glamorous", "eccentric", "epic"],
     },
     {
       id: 113,
@@ -1031,7 +1040,7 @@ https: app.locals.data = {
       artist: "Gojira",
       urlKey: "_-XaaTqOICU",
       genres: ["Metal", "Heavy Metal"],
-      searchTerms: ["heavy", "epic"]
+      searchTerms: ["heavy", "epic"],
     },
     {
       id: 114,
@@ -1039,7 +1048,7 @@ https: app.locals.data = {
       artist: "Slipknot",
       urlKey: "LWRzceFXYPc",
       genres: ["Metal", "Heavy Metal"],
-      searchTerms: ["heavy", "epic", "dark"]
+      searchTerms: ["heavy", "epic", "dark"],
     },
     {
       id: 115,
@@ -1047,7 +1056,7 @@ https: app.locals.data = {
       artist: "Sabaton",
       urlKey: "LWRzceFXYPc",
       genres: ["Metal", "Heavy Metal"],
-      searchTerms: ["heavy", "marching"]
+      searchTerms: ["heavy", "marching"],
     },
     {
       id: 116,
@@ -1055,7 +1064,7 @@ https: app.locals.data = {
       artist: "Powerwolf",
       urlKey: "GCN1s9g9Mfo",
       genres: ["Metal", "Heavy Metal"],
-      searchTerms: ["eccentric", "marching"]
+      searchTerms: ["eccentric", "marching"],
     },
     {
       id: 117,
@@ -1063,7 +1072,7 @@ https: app.locals.data = {
       artist: "Sabaton",
       urlKey: "K75H32uBeAU",
       genres: ["Metal", "Heavy Metal"],
-      searchTerms: ["eccentric", "marching"]
+      searchTerms: ["eccentric", "marching"],
     },
     {
       id: 119,
@@ -1071,7 +1080,7 @@ https: app.locals.data = {
       artist: "Scorpions",
       urlKey: "K75H32uBeAU",
       genres: ["Rock"],
-      searchTerms: ["epic", "marching", "sentimental", "hopeful"]
+      searchTerms: ["epic", "marching", "sentimental", "hopeful"],
     },
     {
       id: 120,
@@ -1079,7 +1088,7 @@ https: app.locals.data = {
       artist: "Michael Jackson",
       urlKey: "t1pqi8vjTLY",
       genres: ["Pop"],
-      searchTerms: ["hopeful", "sentimental"]
+      searchTerms: ["hopeful", "sentimental"],
     },
     {
       id: 121,
@@ -1087,7 +1096,7 @@ https: app.locals.data = {
       artist: "Bonnie Tyler",
       urlKey: "bWcASV2sey0",
       genres: ["Pop"],
-      searchTerms: ["hopeful", "sentimental", "epic"]
+      searchTerms: ["hopeful", "sentimental", "epic"],
     },
     {
       id: 122,
@@ -1095,14 +1104,88 @@ https: app.locals.data = {
       artist: "Meatloaf",
       urlKey: "9X_ViIPA-Gc",
       genres: ["Rock", "Alternative"],
-      searchTerms: ["hopeful", "sentimental", "epic", "romantic"]
+      searchTerms: ["hopeful", "sentimental", "epic", "romantic"],
     },
-
-
-
-
-
-
+    {
+      id: 123,
+      title: "Waiting Room",
+      artist: "Fugazi",
+      urlKey: "C3LXkdpHNOQ",
+      genres: ["Punk-Rock"],
+      searchTerms: ["Restless"],
+    },
+    {
+      id: 124,
+      title: "X",
+      artist: "Xzibit",
+      urlKey: "qJxk1leG1wY",
+      genres: ["Rap"],
+      searchTerms: ["Restless"],
+    },
+    {
+      id: 125,
+      title: "Jump Around",
+      artist: "House of Pain",
+      urlKey: "jrL_LzX5wv4",
+      genres: ["Rap", "Hip-Hop"],
+      searchTerms: ["Restless", "Running"],
+    },
+    {
+      id: 126,
+      title: "Summertime",
+      artist: "DJ Jazzy Jeff & The Fresh Prince",
+      urlKey: "Kr0tTbTbmVA",
+      genres: ["Rap", "Hip-Hop"],
+      searchTerms: ["Quirky"],
+    },
+    {
+      id: 127,
+      title: "Mysterious Ways",
+      artist: "U2",
+      urlKey: "TxcDTUMLQJI",
+      genres: ["Rock", "Alternative"],
+      searchTerms: ["mysterious"],
+    },
+    {
+      id: 128,
+      title: "4 AM",
+      artist: "Kaskade",
+      urlKey: "kV0IBNHWFeg",
+      genres: ["Alternative"],
+      searchTerms: ["mysterious"],
+    },
+    {
+      id: 129,
+      title: "Spring Break 1899",
+      artist: "Murder By Death",
+      urlKey: "ftYle2UOjYk",
+      genres: ["Alternative"],
+      searchTerms: ["mysterious"],
+    },
+    {
+      id: 130,
+      title: "Closer",
+      artist: "Kings of Leon",
+      urlKey: "Qf92fQDITgc",
+      genres: ["Alternative"],
+      searchTerms: ["mysterious"],
+    },
+    {
+      id: 131,
+      title: "Ashamed",
+      artist: "Deer Tick",
+      urlKey: "TILo-c-mpGE",
+      genres: ["Alternative"],
+      searchTerms: ["mysterious"],
+    },
+    {
+      id: 132,
+      title: "Waiting Room",
+      artist: "Fugazi",
+      urlKey: "C3LXkdpHNOQ",
+      genres: ["Punk-Rock"],
+      searchTerms: ["restless"],
+    },
   ],
 
   moods: [
