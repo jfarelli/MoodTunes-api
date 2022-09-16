@@ -53,9 +53,9 @@ https: app.locals.data = {
       id: 7,
       title: "Wrongful Suspicion",
       artist: "Rancid",
-      urlKey: "gsn0onH-ql8",
+      urlKey: "2yIIcL69dnyMJDRuxfV5B7",
       genres: ["Punk-Rock", "Reggae"],
-      searchTerms: ["happy", "floating", "laid-back", "smooth"],
+      searchTerms: ["happy", "floating", "laid-back", "restless"],
     },
     {
       id: 8,
@@ -164,7 +164,7 @@ https: app.locals.data = {
       id: 20,
       title: "Take Me Home, Country Roads",
       artist: "John Denver",
-      urlKey: "PnDhAhko6cDS",
+      urlKey: "1YYhDizHx7PnDhAhko6cDS",
       genres: ["Country", "Light-Rock"],
       searchTerms: ["eccentric", "elegant", "euphoric", "floating"],
     },
@@ -205,7 +205,7 @@ https: app.locals.data = {
       artist: "NOFX",
       urlKey: "46mov5j25a6BXrxNQKUwiA",
       genres: ["Punk-Rock"],
-      searchTerms: ["eccentric", "epic", "running", "laid-back"],
+      searchTerms: ["eccentric", "epic", "running", "restless"],
     },
     {
       id: 25,
@@ -221,7 +221,7 @@ https: app.locals.data = {
       artist: "Toby Keith",
       urlKey: "7E2DqvnVtbIrFrL5X6YH9Q",
       genres: ["Country"],
-      searchTerms: ["happy", "laid-back"],
+      searchTerms: ["happy", "laid-back", "running"],
     },
     {
       id: 27,
@@ -229,7 +229,7 @@ https: app.locals.data = {
       artist: "Scissor Sisters",
       urlKey: "0LAfANg75hYiV1IAEP3vY6",
       genres: ["Country"],
-      searchTerms: ["happy", "eccentric", "funny", "glamorous"],
+      searchTerms: ["happy", "eccentric", "funny", "glamorous", "restless", "running"],
     },
     {
       id: 28,
@@ -237,7 +237,7 @@ https: app.locals.data = {
       artist: "The Texas Rattle Snake",
       urlKey: "7c6gwmXP64tmpbmA86wHIk",
       genres: ["Rock", "Alternative"],
-      searchTerms: ["eccentric", "epic", "marching", "chasing", "fear"],
+      searchTerms: ["eccentric", "epic", "marching", "chasing", "fear", "running"],
     },
     {
       id: 29,
@@ -451,7 +451,7 @@ https: app.locals.data = {
       artist: "Wheeler Walker Jr.",
       urlKey: "7uMBc5uxQRZNFowjhxH9WL",
       genres: ["Country"],
-      searchTerms: ["essentric", "funny", "quirky", "weird"],
+      searchTerms: ["essentric", "funny", "quirky", "weird", "restless"],
     },
     {
       id: 52,
@@ -483,7 +483,7 @@ https: app.locals.data = {
       artist: "White Zombie",
       urlKey: "4tvBoSWeIW0bjhKNre5mod",
       genres: ["Metal", "Hard-Rock"],
-      searchTerms: ["heavy", "dark", "angry"],
+      searchTerms: ["heavy", "dark", "angry", "running"],
     },
     {
       id: 56,
@@ -642,7 +642,7 @@ https: app.locals.data = {
       artist: "Skrillex & Damien",
       urlKey: "0mlf3yOGzVnIVxjybDQL3h",
       genres: ["Dubstep", "Reggae"],
-      searchTerms: ["high af", "eccentric"],
+      searchTerms: ["high af", "eccentric", "restless"],
     },
 
     {
@@ -776,7 +776,7 @@ https: app.locals.data = {
       artist: "Kate Bush",
       urlKey: "29d0nY7TzCoi22XBqDQkiP",
       genres: ["New wave", "Alternative", "Indie", "Pop", "Holiday", "Folk"],
-      searchTerms: ["fear", "chasing"],
+      searchTerms: ["fear", "chasing", "restless", "running"],
     },
     {
       id: 84,
@@ -1018,15 +1018,15 @@ https: app.locals.data = {
       artist: "Warrant",
       urlKey: "7LygtNjQ65PSdzVjUnHXQb",
       genres: ["Glamrock", "Rock"],
-      searchTerms: ["glamorous", "eccentric", "euphoric"],
+      searchTerms: ["glamorous", "eccentric", "euphoric", "running"],
     },
     {
       id: 111,
-      title: " Kickstart My Heart",
+      title: "Kickstart My Heart",
       artist: "Mötley Crüe",
       urlKey: "6imjJij6aCM0IbbODUzJQn",
       genres: ["Glamrock", "Metal"],
-      searchTerms: ["glamorous", "eccentric"],
+      searchTerms: ["glamorous", "eccentric", "running", "epic"],
     },
     {
       id: 112,
@@ -1042,7 +1042,7 @@ https: app.locals.data = {
       artist: "Gojira",
       urlKey: "5OjCsHeByDYEGxMrb1z8KQ",
       genres: ["Metal", "Heavy Metal"],
-      searchTerms: ["heavy", "epic"],
+      searchTerms: ["heavy"],
     },
     {
       id: 114,
@@ -1050,7 +1050,7 @@ https: app.locals.data = {
       artist: "Slipknot",
       urlKey: "4nmXKnPOuMDVI8gVir3D9C",
       genres: ["Metal", "Heavy Metal"],
-      searchTerms: ["heavy", "epic", "dark"],
+      searchTerms: ["heavy", "dark"],
     },
     {
       id: 115,
@@ -1082,7 +1082,7 @@ https: app.locals.data = {
       artist: "Scorpions",
       urlKey: "3ovjw5HZZv43SxTwApooCM",
       genres: ["Rock"],
-      searchTerms: ["epic", "marching", "sentimental", "hopeful"],
+      searchTerms: ["sentimental", "hopeful"],
     },
     {
       id: 120,
@@ -1114,7 +1114,7 @@ https: app.locals.data = {
       artist: "Fugazi",
       urlKey: "2DBlfjL5chsdeULzhTp5K8",
       genres: ["Punk-Rock"],
-      searchTerms: ["Restless"],
+      searchTerms: ["restless"],
     },
     {
       id: 124,
@@ -1122,7 +1122,7 @@ https: app.locals.data = {
       artist: "Xzibit",
       urlKey: "5stZnlPMYz3Ba8Hbo3ajlP",
       genres: ["Rap"],
-      searchTerms: ["Restless"],
+      searchTerms: ["restless",, "running"],
     },
     {
       id: 125,
@@ -1130,7 +1130,7 @@ https: app.locals.data = {
       artist: "House of Pain",
       urlKey: "6JymsaWDHk2Yj4e0yNBIFH",
       genres: ["Rap", "Hip-Hop"],
-      searchTerms: ["Restless", "Running"],
+      searchTerms: ["restless", "running"],
     },
     {
       id: 126,
@@ -1138,7 +1138,7 @@ https: app.locals.data = {
       artist: "DJ Jazzy Jeff & The Fresh Prince",
       urlKey: "20XdEFyaUR9C7aDIdq2OAd",
       genres: ["Rap", "Hip-Hop"],
-      searchTerms: ["Quirky"],
+      searchTerms: ["quirky"],
     },
     {
       id: 127,
