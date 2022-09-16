@@ -611,21 +611,13 @@ https: app.locals.data = {
         "high af",
       ],
     },
-    // {
-    //   id: 65,
-    //   title: "Tweezer",
-    //   artist: "Phish",
-    //   urlKey: "yZwRQ6bsm_k",
-    //   genres: ["Rock", "Jam", "Psychedelia"],
-    //   searchTerms: ["euphoric", "happy", "epic", "eccentric", "dark"],
-    // },
     {
       id: 66,
       title: "Darker Thoughts",
       artist: "Paradise Lost",
       urlKey: "URJH3ZJzxB0",
       genres: ["Metal"],
-      searchTerms: ["dark", "sad"]
+      searchTerms: ["dark", "sad"],
     },
     {
       id: 67,
@@ -633,7 +625,7 @@ https: app.locals.data = {
       artist: "Katatonia",
       urlKey: "nH45PdkXF9I",
       genres: ["Metal", "Rock"],
-      searchTerms: ["dark", "sad"]
+      searchTerms: ["dark", "sad"],
     },
     {
       id: 68,
@@ -641,7 +633,7 @@ https: app.locals.data = {
       artist: "Poets of the Fall",
       urlKey: "MKk1u5RMTn4",
       genres: ["Rock"],
-      searchTerms: ["sad", "mysterious"]
+      searchTerms: ["sad", "mysterious"],
     },
     {
       id: 69,
@@ -649,7 +641,7 @@ https: app.locals.data = {
       artist: "Skrillex & Damien",
       urlKey: "BGpzGu9Yp6Y",
       genres: ["Dubstep", "Reggae"],
-      searchTerms: ["high af", "eccentric"]
+      searchTerms: ["high af", "eccentric"],
     },
     {
       id: 70,
@@ -657,7 +649,7 @@ https: app.locals.data = {
       artist: "Geto Boys",
       urlKey: "IJtHdkyo0hc",
       genres: ["Rap", "Gangsta Rap"],
-      searchTerms: ["high af", "dark", "restless", "mysterious"]
+      searchTerms: ["high af", "dark", "restless", "mysterious"],
     },
     {
       id: 71,
@@ -665,7 +657,7 @@ https: app.locals.data = {
       artist: "Hopsin",
       urlKey: "hRVOOwFNp5U",
       genres: ["Rap"],
-      searchTerms: ["dark", "scary"]
+      searchTerms: ["dark", "scary"],
     },
 
     {
@@ -674,8 +666,7 @@ https: app.locals.data = {
       artist: "Casanova",
       urlKey: "YiS24Ia44DQ",
       genres: ["Rap", "Gangsta Rap"],
-      searchTerms: ["dark", "high af", "eccentric"]
-
+      searchTerms: ["dark", "high af", "eccentric"],
     },
     {
       id: 73,
@@ -683,7 +674,7 @@ https: app.locals.data = {
       artist: "Roy Jones Jr",
       urlKey: "ivPKDBzVhow",
       genres: ["Rap", "Gangsta Rap"],
-      searchTerms: ["dark", "high af", "eccentric", "epic"]
+      searchTerms: ["dark", "high af", "eccentric", "epic"],
     },
     {
       id: 74,
@@ -692,8 +683,7 @@ https: app.locals.data = {
       urlKey: "3vEW_r4Swn8",
       genres: ["Metal", "Heavy Metal", ""],
 
-      searchTerms: ["marching", "eccentric", "epic"]
-
+      searchTerms: ["marching", "eccentric", "epic"],
     },
     {
       id: 75,
@@ -702,8 +692,7 @@ https: app.locals.data = {
       urlKey: "ArrqUWKvq7g",
       genres: ["Metal", "Death Metal", "Speed Metal"],
 
-      searchTerms: ["eccentric", "epic", "scary"]
-
+      searchTerms: ["eccentric", "epic", "scary"],
     },
     {
       id: 76,
@@ -711,7 +700,7 @@ https: app.locals.data = {
       artist: "Five Finger Death Punch",
       urlKey: "KAuyEG7JPbE",
       genres: ["Metal", "Heavy Metal", "Nu Metal"],
-      searchTerms: ["dark", "scary", "sad"]
+      searchTerms: ["dark", "scary", "sad"],
     },
     {
       id: 76,
@@ -719,7 +708,7 @@ https: app.locals.data = {
       artist: "Kate Bush",
       urlKey: "wp43OdtAAkM",
       genres: ["Alternative", "Pop"],
-      searchTerms: ["floating", "eccentric", "euphoric"]
+      searchTerms: ["floating", "eccentric", "euphoric"],
     },
     {
       id: 77,
@@ -727,7 +716,7 @@ https: app.locals.data = {
       artist: "Bonnie Tyler",
       urlKey: "lcOxhH8N3Bo",
       genres: ["Alternative", "Pop"],
-      searchTerms: ["epic", "eccentric", "euphoric", "dreamy"]
+      searchTerms: ["epic", "eccentric", "euphoric", "dreamy"],
     },
     {
       id: 78,
@@ -735,7 +724,7 @@ https: app.locals.data = {
       artist: "Kiss",
       urlKey: "12fJAnaif34",
       genres: ["Rock", "Classic Rock"],
-      searchTerms: ["epic", "euphoric", "hopeful"]
+      searchTerms: ["epic", "euphoric", "hopeful"],
     },
     {
       id: 79,
@@ -743,7 +732,7 @@ https: app.locals.data = {
       artist: "Audioslave",
       urlKey: "7QU1nvuxaMA",
       genres: ["Rock", "Classic Rock"],
-      searchTerms: ["dark", "Sad"]
+      searchTerms: ["dark", "Sad"],
     },
     {
       id: 80,
@@ -751,8 +740,193 @@ https: app.locals.data = {
       artist: "Soundgarden",
       urlKey: "3mbBbFH9fAg",
       genres: ["Rock"],
-      searchTerms: ["dark", "sad", "sentimental"]
+      searchTerms: ["dark", "sad", "sentimental"],
     },
+    {
+      id: 81,
+      title: "(Don't Fear) The Reaper",
+      artist: "Blue Oyster Cult",
+      urlKey: "Dy4HA3vUv2c",
+      genres: [
+        "Hard rock",
+        "Psychedelic",
+        "rock",
+        "Soft rock",
+        "Alternative",
+        "Indie",
+        `Children's Music`,
+        "Pop",
+        "Rock",
+      ],
+      searchTerms: ["fear", "dark"],
+    },
+    {
+      id: 82,
+      title: "Iron Man",
+      artist: "Black Sabbath",
+      urlKey: "F01UTYg79KY",
+      genres: ["Metal", "Rock"],
+      searchTerms: ["fear", "dark"],
+    },
+    {
+      id: 83,
+      title: "Running Up That Hill",
+      artist: "Kate Bush",
+      urlKey: "wp43OdtAAkM",
+      genres: ["New wave", "Alternative", "Indie", "Pop", "Holiday", "Folk"],
+      searchTerms: ["fear", "chasing"],
+    },
+    {
+      id: 84,
+      title: "Riders On The Storm",
+      artist: "The Doors",
+      urlKey: "iv8GW1GaoIc",
+      genres: [
+        "Psychedelic rock",
+        "Jazz fusion",
+        "Gothic rock",
+        "Alternative",
+        "Indie",
+        "Art rock",
+        `Children's Music`,
+        "Rock",
+        "Blues",
+        "Folk",
+      ],
+      searchTerms: ["fear", "chasing"],
+    },
+
+    {
+      id: 85,
+      title: "Pelota",
+      artist: "Khruangbin",
+      urlKey: "UULIfPLMuDw",
+      genres: ["Alternative", "Indie"],
+      searchTerms: ["laid back", "sexy"],
+    },
+
+    {
+      id: 86,
+      title: `I'm Solo`,
+      artist: "Claude VonStroke",
+      urlKey: "5HIZaxq5EfM",
+      genres: ["Jungle", "Drum", "Bass", "House"],
+      searchTerms: ["restless", "high af", "floating"],
+    },
+    {
+      id: 87,
+      title: `Crazy Train`,
+      artist: "Ozzy Osbourne",
+      urlKey: "tMDFv5m18Pw",
+      genres: ["Heavy Metal", "Metal"],
+      searchTerms: ["chasing", "dark"],
+    },
+    {
+      id: 88,
+      title: `I Thought About Killing You`,
+      artist: "Kanye West",
+      urlKey: "no1YszVVybo",
+      genres: ["Hip Hop ", "Rap"],
+      searchTerms: ["dark"],
+    },
+    {
+      id: 89,
+      title: `Still Fly`,
+      artist: "Big Tymers",
+      urlKey: "9iCd6UHR-3I",
+      genres: ["Hip Hop ", "Rap"],
+      searchTerms: ["funny", "high af"],
+    },
+    {
+      id: 90,
+      title: `New York, New York`,
+      artist: "Frank Sinatra",
+      urlKey: "EEjq8ZoyXuQ",
+      genres: ["Jazz"],
+      searchTerms: ["elegant"],
+    },
+    {
+      id: 91,
+      title: `Blow Horn Joint`,
+      artist: "DJ Premier",
+      urlKey: "VgYzsbVvk5s",
+      genres: ["Hip Hop", "Rap", "Jazz"],
+      searchTerms: ["elegant"],
+    },
+    {
+      id: 92,
+      title: `Suicidal Thoughts`,
+      artist: "The Notorious B.I.G.",
+      urlKey: "v1mKGlYL9jg",
+      genres: ["Hip Hop", "Rap"],
+      searchTerms: ["dark"],
+    },
+    {
+      id: 93,
+      title: `Rudolph The Red Nosed Reindeer`,
+      artist: "DMX",
+      urlKey: "B4W_XYI4AN0",
+      genres: ["Hip Hop", "Rap"],
+      searchTerms: ["funny", "high af"],
+    },
+    {
+      id: 94,
+      title: `Just the Two of Us`,
+      artist: "Grover Washington Jr.",
+      urlKey: "6POZlJAZsok",
+      genres: ["Jazz", "Soul music", "Rhythm and blues"],
+      searchTerms: ["sexy", "smooth"],
+    },
+    {
+      id: 95,
+      title: `Halloween Theme Song`,
+      artist: "Michael Myers",
+      urlKey: "2T9m-fj8K9c",
+      genres: ["Classical"],
+      searchTerms: ["fear", "chasing", "dark"],
+    },
+    {
+      id: 96,
+      title: `Nocturne op.9 No.2`,
+      artist: "Chopin",
+      urlKey: "9E6b3swbnWg",
+      genres: ["Piano"],
+      searchTerms: ["elegant", "sad"],
+    },
+    {
+      id: 97,
+      title: `Cello Suite No. 1 in G Major BWV1007`,
+      artist: "Bach",
+      urlKey: "DwHpDOWhkGk",
+      genres: ["Piano"],
+      searchTerms: ["elegant"],
+    },
+    {
+      id: 98,
+      title: `Werewolf Bar Mitzvah`,
+      artist: "Tracy Morgan",
+      urlKey: "A6V2oCX3Hn4",
+      genres: ["Funny"],
+      searchTerms: ["funny"],
+    },
+    {
+      id: 99,
+      title: `Con Te Partirò`,
+      artist: "Andrea Bocelli",
+      urlKey: "TdWEhMOrRpQ",
+      genres: ["Operatic pop"],
+      searchTerms: ["elegant"],
+    },
+    {
+      id: 100,
+      title: `These Days`,
+      artist: "The Black Keys",
+      urlKey: "TdWEhMOrRpQ",
+      genres: ["Rock", "Classic Rock"],
+      searchTerms: ["dark", "sad"],
+    },
+
+
   ],
 
   moods: [
