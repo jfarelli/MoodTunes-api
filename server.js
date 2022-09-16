@@ -917,14 +917,6 @@ https: app.locals.data = {
       genres: ["Operatic pop"],
       searchTerms: ["elegant"],
     },
-    {
-      id: 100,
-      title: `These Days`,
-      artist: "The Black Keys",
-      urlKey: "TdWEhMOrRpQ",
-      genres: ["Rock", "Classic Rock"],
-      searchTerms: ["dark", "sad"],
-    },
 
 
   ],
