@@ -617,7 +617,7 @@ https: app.locals.data = {
       artist: "Paradise Lost",
       urlKey: "URJH3ZJzxB0",
       genres: ["Metal"],
-      searchTerms: ["dark", "sad"],
+      searchTerms: ["dark", "sad", "heavy"],
     },
     {
       id: 67,
@@ -700,7 +700,7 @@ https: app.locals.data = {
       artist: "Five Finger Death Punch",
       urlKey: "KAuyEG7JPbE",
       genres: ["Metal", "Heavy Metal", "Nu Metal"],
-      searchTerms: ["dark", "scary", "sad"],
+      searchTerms: ["dark", "scary", "sad", "heay"],
     },
     {
       id: 76,
@@ -985,6 +985,122 @@ https: app.locals.data = {
       genres: ["Rock"],
       searchTerms: ["scary", "weird",],
     },
+    {
+      id: 108,
+      title: " Poison",
+      artist: "Alice Cooper",
+      urlKey: "Qq4j1LtCdww",
+      genres: ["Glamrock", "Rock"],
+      searchTerms: ["glamorous", "romantic"]
+    },
+    {
+      id: 109,
+      title: "18 & life",
+      artist: "Skid Row",
+      urlKey: "Ghd2bkIadG4",
+      genres: ["Glamrock", "Rock"],
+      searchTerms: ["glamorous", "dark", "sad"]
+    },
+    {
+      id: 110,
+      title: "Cherry Pie",
+      artist: "Warrant",
+      urlKey: "OjyZKfdwlng",
+      genres: ["Glamrock", "Rock"],
+      searchTerms: ["glamorous", "eccentric", "euphoric"]
+    },
+    {
+      id: 111,
+      title: " Kickstart My Heart",
+      artist: "Mötley Crüe",
+      urlKey: "WqOlHt--fOI",
+      genres: ["Glamrock", "Metal"],
+      searchTerms: ["glamorous", "eccentric"]
+    },
+    {
+      id: 112,
+      title: "Dream On",
+      artist: "Aerosmith",
+      urlKey: "cvCFRGn7EEQ",
+      genres: ["Glamrock", "Rock"],
+      searchTerms: ["glamorous", "eccentric", "epic"]
+    },
+    {
+      id: 113,
+      title: "Flying Whales",
+      artist: "Gojira",
+      urlKey: "_-XaaTqOICU",
+      genres: ["Metal", "Heavy Metal"],
+      searchTerms: ["heavy", "epic"]
+    },
+    {
+      id: 114,
+      title: "Wherein Lies Continue",
+      artist: "Slipknot",
+      urlKey: "LWRzceFXYPc",
+      genres: ["Metal", "Heavy Metal"],
+      searchTerms: ["heavy", "epic", "dark"]
+    },
+    {
+      id: 115,
+      title: "To Hell and Back",
+      artist: "Sabaton",
+      urlKey: "LWRzceFXYPc",
+      genres: ["Metal", "Heavy Metal"],
+      searchTerms: ["heavy", "marching"]
+    },
+    {
+      id: 116,
+      title: "In the Name of God",
+      artist: "Powerwolf",
+      urlKey: "GCN1s9g9Mfo",
+      genres: ["Metal", "Heavy Metal"],
+      searchTerms: ["eccentric", "marching"]
+    },
+    {
+      id: 117,
+      title: "Carolus Rex ",
+      artist: "Sabaton",
+      urlKey: "K75H32uBeAU",
+      genres: ["Metal", "Heavy Metal"],
+      searchTerms: ["eccentric", "marching"]
+    },
+    {
+      id: 119,
+      title: "Wind of Change",
+      artist: "Scorpions",
+      urlKey: "K75H32uBeAU",
+      genres: ["Rock"],
+      searchTerms: ["epic", "marching", "sentimental", "hopeful"]
+    },
+    {
+      id: 120,
+      title: "They Don't Really Care About Us",
+      artist: "Michael Jackson",
+      urlKey: "t1pqi8vjTLY",
+      genres: ["Pop"],
+      searchTerms: ["hopeful", "sentimental"]
+    },
+    {
+      id: 121,
+      title: "Holding Out For a Hero",
+      artist: "Bonnie Tyler",
+      urlKey: "bWcASV2sey0",
+      genres: ["Pop"],
+      searchTerms: ["hopeful", "sentimental", "epic"]
+    },
+    {
+      id: 122,
+      title: "I'd Do Anything For Love",
+      artist: "Meatloaf",
+      urlKey: "9X_ViIPA-Gc",
+      genres: ["Rock", "Alternative"],
+      searchTerms: ["hopeful", "sentimental", "epic", "romantic"]
+    },
+
+
+
+
 
 
   ],
