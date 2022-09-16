@@ -1,7 +1,6 @@
 {
   "name": "mood-tunes-api",
   "version": "1.0.0",
-  "description": "",
   "main": "start.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +18,14 @@
     "@babel/core": "^7.18.13",
     "@babel/node": "^7.18.10",
     "@babel/preset-env": "^7.18.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfarelli/MoodTunes-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jfarelli/MoodTunes-api/issues"
+  },
+  "homepage": "https://github.com/jfarelli/MoodTunes-api#readme",
+  "description": ""
 }
