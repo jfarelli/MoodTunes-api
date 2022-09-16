@@ -917,6 +917,74 @@ https: app.locals.data = {
       genres: ["Operatic pop"],
       searchTerms: ["elegant"],
     },
+    {
+      id: 100,
+      title: "I'll Be Here in the Morning",
+      artist: "Townes Van Zandt",
+      urlKey: "SCVTjmygWuU",
+      genres: ["Alternative", "Country", "Rock"],
+      searchTerms: ["peaceful", "dreamy", "sentimental", "romantic"],
+    },
+    {
+      id: 101,
+      title: "Fearless",
+      artist: "Pink Floyd",
+      urlKey: "sl_apx8JoMwYkADj0TPrJA",
+      genres: ["Rock"],
+      searchTerms: ["happy", "epic", "dreamy", "relaxing"],
+    },
+    {
+      id: 102,
+      title: "The Morning Light",
+      artist: "Billy Strings",
+      urlKey: "kx3NOJ-oCfo",
+      genres: ["country"],
+      searchTerms: ["happy", "euphoric", "floating", "high af", "romantic", "sexy", "peaceful", "sentimental"],
+    },
+
+    {
+      id: 103,
+      title: "Miracles",
+      artist: "ICP",
+      urlKey: "8GyVx28R9-s",
+      genres: ["Rap", "Hip-hop"],
+      searchTerms: ["weird"],
+    },
+
+    {
+      id: 104,
+      title: "Most Events Aren't Planned",
+      artist: "Phish",
+      urlKey: "8r1iVVEn2Hc",
+      genres: ["Rock"],
+      searchTerms: ["epic", "euphoric", "high af", "dark", "mysterious"],
+    },
+
+    {
+      id: 105,
+      title: "Awake",
+      artist: "Tycho",
+      urlKey: "6XJBDX3Z0BY",
+      genres: ["Dance"],
+      searchTerms: ["studious", "sentimental", "smooth"],
+    },
+
+    {
+      id: 106,
+      title: "Dragula",
+      artist: "Rob Zombie",
+      urlKey: "EqQuihD0hoI",
+      genres: ["Dance", "Electronic"],
+      searchTerms: ["weird", "scary"],
+    },
+    {
+      id: 107,
+      title: "Carini",
+      artist: "Phish",
+      urlKey: "rGIg9w9qmlA",
+      genres: ["Rock"],
+      searchTerms: ["scary", "weird",],
+    },
 
 
   ],
