@@ -4,7 +4,6 @@ const app = express();
 app.use(express.static("public"));
 app.use(cors());
 
-//github.com/jfarelli/MoodTunes-api/blob/500738ef7ebee30cc797067d0ee0e94d50b3363a/assets/happy.png
 
 https: app.locals.data = {
   songs: [
