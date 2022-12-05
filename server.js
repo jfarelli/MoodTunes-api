@@ -76,7 +76,7 @@ https: app.locals.data = {
         "mysterious",
         "quirky",
         "weird",
-        "high af",
+        "pleasantly lifted",
       ],
     },
     {
@@ -195,7 +195,7 @@ https: app.locals.data = {
         "floating",
         "laid-back",
         "sentimental",
-        "high af",
+        "pleasantly lifted",
       ],
     },
     {
@@ -310,7 +310,7 @@ https: app.locals.data = {
       artist: "Phil Collins",
       urlKey: "18AXbzPzBS8Y3AkgSxzJPb",
       genres: ["Alternative", "Indie", "R&B", "Soul", "Pop", "Rock"],
-      searchTerms: ["peaceful", "dreamy", "floating", "high af"],
+      searchTerms: ["peaceful", "dreamy", "floating", "pleasantly lifted"],
     },
 
     {
@@ -327,7 +327,7 @@ https: app.locals.data = {
       artist: "Glass Animals",
       urlKey: "1gk3FhAV07q9Jg77UxnVjX",
       genres: ["Alternative", "Indie", "R&B", "Soul", "Pop"],
-      searchTerms: ["happy", "euphoric", "floating", "high af"],
+      searchTerms: ["happy", "euphoric", "floating", "pleasantly lifted"],
     },
 
     {
@@ -336,7 +336,7 @@ https: app.locals.data = {
       artist: "Wu-Tang Clan",
       urlKey: "119c93MHjrDLJTApCVGpvx",
       genres: ["Rap", "Hip-hop"],
-      searchTerms: ["hopeful", "high af"],
+      searchTerms: ["hopeful", "pleasantly lifted"],
     },
 
     {
@@ -351,7 +351,7 @@ https: app.locals.data = {
         "floating",
         "hopeful",
         "euphoric",
-        "high af",
+        "pleasantly lifted",
       ],
     },
 
@@ -392,7 +392,7 @@ https: app.locals.data = {
       artist: "Backstreet Boys",
       urlKey: "47BBI51FKFwOMlIiX6m8ya",
       genres: ["Alternative", "Boy-Band"],
-      searchTerms: ["sexy", "romantic", "high af"],
+      searchTerms: ["sexy", "romantic", "pleasantly lifted"],
     },
     {
       id: 43,
@@ -520,7 +520,7 @@ https: app.locals.data = {
         "peaceful",
         "smooth",
         "dreamy",
-        "high af",
+        "pleasantly lifted",
       ],
     },
 
@@ -546,7 +546,7 @@ https: app.locals.data = {
         "peaceful",
         "smooth",
         "dreamy",
-        "high af",
+        "pleasantly lifted",
       ],
     },
 
@@ -586,7 +586,7 @@ https: app.locals.data = {
         "relaxing",
         "elegant",
         "epic",
-        "high af",
+        "pleasantly lifted",
       ],
     },
     {
@@ -622,7 +622,7 @@ https: app.locals.data = {
         "relaxing",
         "elegant",
         "epic",
-        "high af",
+        "pleasantly lifted",
       ],
     },
     {
@@ -655,7 +655,7 @@ https: app.locals.data = {
       artist: "Skrillex & Damien",
       urlKey: "0mlf3yOGzVnIVxjybDQL3h",
       genres: ["Dubstep", "Reggae"],
-      searchTerms: ["high af", "eccentric", "restless"],
+      searchTerms: ["pleasantly lifted", "eccentric", "restless"],
     },
 
     {
@@ -664,7 +664,7 @@ https: app.locals.data = {
       artist: "Geto Boys",
       urlKey: "63BokRfXSQhEU6Qi2dSJpZ",
       genres: ["Rap", "Gangsta Rap"],
-      searchTerms: ["high af", "dark", "restless", "mysterious"],
+      searchTerms: ["pleasantly lifted", "dark", "restless", "mysterious"],
     },
     {
       id: 71,
@@ -681,7 +681,7 @@ https: app.locals.data = {
       artist: "Casanova",
       urlKey: "6neCPzADon669Mxe4oZSlR",
       genres: ["Rap", "Gangsta Rap"],
-      searchTerms: ["dark", "high af", "eccentric"],
+      searchTerms: ["dark", "pleasantly lifted", "eccentric"],
     },
     {
       id: 73,
@@ -689,7 +689,7 @@ https: app.locals.data = {
       artist: "Roy Jones Jr",
       urlKey: "3zmduBNsQ6BPDTZAkXzG5K",
       genres: ["Rap", "Gangsta Rap"],
-      searchTerms: ["dark", "high af", "eccentric", "epic"],
+      searchTerms: ["dark", "pleasantly lifted", "eccentric", "epic"],
     },
     {
       id: 74,
@@ -826,7 +826,7 @@ https: app.locals.data = {
       artist: "Claude VonStroke",
       urlKey: "3YgQmd3NhIymCCDmMpIX5w",
       genres: ["Jungle", "Drum", "Bass", "House"],
-      searchTerms: ["restless", "high af", "floating"],
+      searchTerms: ["restless", "pleasantly lifted", "floating"],
     },
     {
       id: 87,
@@ -850,7 +850,7 @@ https: app.locals.data = {
       artist: "Big Tymers",
       urlKey: "563vSy3HB5NHxel1VGQCW6",
       genres: ["Hip Hop ", "Rap"],
-      searchTerms: ["funny", "high af"],
+      searchTerms: ["funny", "pleasantly lifted"],
     },
     {
       id: 90,
@@ -882,7 +882,7 @@ https: app.locals.data = {
       artist: "DMX",
       urlKey: "2lhlItQCi2mgtJVl80RPWY",
       genres: ["Hip Hop", "Rap"],
-      searchTerms: ["funny", "high af"],
+      searchTerms: ["funny", "pleasantly lifted"],
     },
     {
       id: 94,
@@ -958,7 +958,7 @@ https: app.locals.data = {
         "happy",
         "euphoric",
         "floating",
-        "high af",
+        "pleasantly lifted",
         "romantic",
         "sexy",
         "peaceful",
@@ -981,7 +981,7 @@ https: app.locals.data = {
       artist: "Phish",
       urlKey: "3EwnfZ4c1o0aER2GZwDG8z",
       genres: ["Rock"],
-      searchTerms: ["epic", "euphoric", "high af", "dark", "mysterious"],
+      searchTerms: ["epic", "euphoric", "pleasantly lifted", "dark", "mysterious"],
     },
 
     {
@@ -1238,7 +1238,7 @@ https: app.locals.data = {
     },
     {
       id: 9,
-      title: "High AF",
+      title: "Pleasantly Lifted",
       img: "https://w0.peakpx.com/wallpaper/424/116/HD-wallpaper-take-me-away-aesthetic-ballons-clouds-dreamy-floating-mood-soft-takemeaway.jpg",
     },
     {
