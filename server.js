@@ -228,7 +228,14 @@ https: app.locals.data = {
       artist: "Scissor Sisters",
       urlKey: "0LAfANg75hYiV1IAEP3vY6",
       genres: ["Country"],
-      searchTerms: ["happy", "eccentric", "funny", "glamorous", "restless", "running"],
+      searchTerms: [
+        "happy",
+        "eccentric",
+        "funny",
+        "glamorous",
+        "restless",
+        "running",
+      ],
     },
     {
       id: 28,
@@ -236,7 +243,14 @@ https: app.locals.data = {
       artist: "The Texas Rattle Snake",
       urlKey: "7c6gwmXP64tmpbmA86wHIk",
       genres: ["Rock", "Alternative"],
-      searchTerms: ["eccentric", "epic", "marching", "chasing", "fear", "running"],
+      searchTerms: [
+        "eccentric",
+        "epic",
+        "marching",
+        "chasing",
+        "fear",
+        "running",
+      ],
     },
     {
       id: 29,
@@ -1121,7 +1135,7 @@ https: app.locals.data = {
       artist: "Xzibit",
       urlKey: "5stZnlPMYz3Ba8Hbo3ajlP",
       genres: ["Rap"],
-      searchTerms: ["restless",, "running"],
+      searchTerms: ["restless", , "running"],
     },
     {
       id: 125,
@@ -1205,7 +1219,7 @@ https: app.locals.data = {
     {
       id: 5,
       title: "Elegant",
-      img: "https://memegenerator.net/img/images/73326557.jpg",
+      img: "https://imgflip.com/s/meme/Leonardo-Dicaprio-Cheers.jpg",
     },
     {
       id: 6,
